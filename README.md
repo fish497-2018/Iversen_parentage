@@ -9,6 +9,8 @@ The question explored: How does the length to depth body ratio of an offspring c
 
 *Keep in mind that sexual dimorphism is a thing in salmon - males will be larger than females on average*
 
+* Remove all rows with NAs and blanks from the data frame
+
 *Create new columns of length:depth ratios for moms, dads, and offspring and add to a renamed version of the data frame (using mutate and join)
 
 * Calculate the average and standard deviations of L:D for moms and dads **separately** (so we can compare the effects of larger moms vs. larger dads). Also do this for offspring
