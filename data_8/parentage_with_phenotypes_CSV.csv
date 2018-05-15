@@ -1,0 +1,669 @@
+OFFSPRING_ID,tag,year,sex,length,depth,death_fate,entry_date,death_date,locations,Creek,,FATHER_ID,tag,year,sex,length,depth,death_fate,entry_date,death_date,locations,Creek,,MOTHER_ID,tag,year,sex,length,depth,death_fate,entry_date,death_date,locations,Creek
+7715,wpz,2008,f,388,90,sen,52,53,"a,a",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+7716,nt1824a,2008,,,,bk,55,55,a,A,,,,,,,,,,,,,,,,,,,,,,,,
+7717,wjl,2008,f,418,96,,46,46,a,A,,,,,,,,,,,,,,,,,,,,,,,,
+7718,wjk,2008,f,422,99,bk,46,55,"a,a mouth,a,a,a,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,,,,,,,,,,,
+7719,wjh,2008,f,398,99,bk,46,47,"a,a",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+7720,wje,2008,f,398,103,bk,46,48,"a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+7721,wjd,2008,f,375,103,,46,53,"a,a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+7722,wjc,2008,f,425,94,bk,46,50,"a,a,a,a,a",A,,3253,wbz,2004,m,462,157,bk,47,48,"a,a",A,,3254,wca,2004,f,447,114,bk,47,48,"a,a",A
+7723,wjb,2008,m,395,109,bk,46,47,"a,a",A,,2735,wxk,2004,m,400,103,bk,34,42,"a,a,a,a",A,,2854,bkw,2004,f,387,111,bk,41,42,"a,a",A
+7724,wja,2008,m,415,128,,57,58,"a mouth,a mouth,a,a",A,,3262,wck,2004,m,431,124,bk,47,48,"a,a",A,,3272,wcy,2004,f,410,91,bk,47,48,"a,a",A
+7725,wms,2008,f,418,104,flop,53,53,"a mouth,a",A,,3263,wcl,2004,m,432,137,bk,47,48,"a,a",A,,3259,wcg,2004,f,409,99,bk,47,48,"a,a",A
+7726,wmk,2008,f,401,96,bk,53,53,"a mouth,a,a beach",A,,3219,wag,2004,m,383,104,bk,47,55,"a,a,a,a",A,,,,,,,,,,,,
+7727,wmh,2008,f,371,100,bk,55,55,"a mouth,a mouth,a",A,,3396,ywl,2004,m,372,109,,52,54,"a,a,a",A,,3458,ywz,2004,f,430,112,,53,54,"a,a",A
+7728,wny,2008,f,403,105,,54,54,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+7729,wnv,2008,f,427,100,bk,53,55,"a mouth,a mouth,a,a",A,,3372,yth,2004,m,412,122,,52,54,"a,a,a",A,,3206,ysp,2004,f,433,104,bk,47,55,"a,a,a,a,a",A
+7730,wnn,2008,f,408,103,flop,57,58,"a mouth,a,a",A,,3467,yxk,2004,m,409,117,,56,56,a,A,,3369,ytc,2004,f,413,92,bk,52,59,"a,a,a,a,a",A
+7731,wnj,2008,f,387,88,bk,53,55,"a mouth,a,a,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,3362,yvv,2004,f,400,103,bk,52,55,"a,a,a,a",A
+7732,wnh,2008,f,389,93,bk,57,58,"a mouth,a,a",A,,3174,ypa,2004,m,399,108,bk,45,48,"a,a,a",A,,3114,bsa,2004,f,410,111,sen,44,49,"a,a,a,a",A
+7733,wne,2008,f,390,94,,53,56,"a mouth,a,a,a",A,,2852,bkt,2004,m,378,109,bk,41,48,"a,a,a,a,a",A,,3125,bsn,2004,f,406,112,bk,44,48,"a,a,a,a",A
+7734,wnc,2008,f,403,93,,53,58,"a mouth,a,a,a,a,a",A,,3372,yth,2004,m,412,122,,52,54,"a,a,a",A,,,,,,,,,,,,
+7735,wna,2008,f,408,107,bk,50,50,"a mouth,a",A,,2457,bgj,2004,m,383,109,,36,48,"a,a,a,a,a,a,a,a",A,,3116,bsc,2004,f,416,115,bk,44,48,"a,a,a,a",A
+7736,woz,2008,f,508,100,,53,57,"a mouth,a,a,a",A,,3372,yth,2004,m,412,122,,52,54,"a,a,a",A,,3206,ysp,2004,f,433,104,bk,47,55,"a,a,a,a,a",A
+7737,wtl,2008,m,425,115,,54,54,"a mouth,a",A,,3395,ywh,2004,m,388,110,,52,54,"a,a,a",A,,3465,yxh,2004,f,413,101,,54,54,a,A
+7738,wtk,2008,f,423,105,bk,52,60,"a mouth,a,a,a,a,a,a,a,a",A,,3467,yxk,2004,m,409,117,,56,56,a,A,,3369,ytc,2004,f,413,92,bk,52,59,"a,a,a,a,a",A
+7739,ntm819a,2008,m,0,0,bk,50,50,a,A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3236,wbc,2004,f,379,94,,47,58,"a,a,a,a,a,a",A
+7740,ntf1819a,2008,f,0,0,bk,50,50,a,A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+7747,gvy,2008,f,414,102,,51,53,"c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+7748,gvw,2008,f,386,98,bk,58,63,"c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+7749,gtj,2008,f,401,90,bk,46,49,"c,c",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+7750,gth,2008,f,397,100,,46,60,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3185,ypn,2004,f,405,102,bk,45,48,"a,a,a",A
+7751,wnl,2008,f,388,95,sen,49,64,"c,c,a mouth,c,c,c,c,c,c,c,c,c,c,c",C,,3256,wcc,2004,m,404,117,,47,47,a,A,,3113,bpz,2004,f,384,102,bk,44,48,"a,a,a,a",A
+7752,gvz,2008,f,400,100,bk,48,55,"c,c,c,c",C,,2608,wmb,2004,m,432,125,sen,33,47,"c,c,c,c,c,c,c,c",C,,2643,wnw,2004,f,401,100,bk,33,40,"c,c,c,c",C
+7753,ntf817c,2008,f,0,0,bk,48,48,c,C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+7755,wtz,2008,f,406,105,,54,54,"a mouth,c",C,,2412,bdm,2004,m,408,135,,35,45,"c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+7756,gte,2008,nosex,,,bk,49,55,"c,c,c,c,c,c,c",C,,2673,wsh,2004,m,459,144,bk,33,41,"c,c,c,c,c,c,c,c,c",C,,2185,yjy,2004,f,421,112,,33,48,"c,c,c,c,c,c,c",C
+7762,gtd,2008,f,391,105,,49,55,"c,c,c,c,c",C,,,,,,,,,,,,,,3145,ymn,2004,f,394,99,,44,44,c,C
+7764,gtb,2008,nosex,,,sen,50,54,"c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+7767,gta,2008,f,394,90,bk,51,62,"c,c,c,c,c,c,c,c,c,c",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3189,ypv,2004,f,416,107,bk,45,49,"c,c,c",C
+9601,gas,2008,f,388,93,bk,45,49,"c mouth,c mouth,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9603,gao,2008,f,400,103,bk,44,53,"c mouth,c mouth,c,c,c,c,c,c,c,c,c",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9605,gam,2008,f,393,98,bk,43,51,"c mouth,c mouth,c,c,c,c,c,c,c,c,c",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3160,ynh,2004,f,377,94,sen,37,49,"c,c,c,c,c,c",C
+9606,gal,2008,m,461,142,,44,44,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9608,gae,2008,f,377,88,,46,62,"c mouth,c mouth,c,c,c,c,c,c,c,c,c",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9612,gac,2008,f,412,107,bk,44,48,"c mouth,c,c,c,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+9615,gcz,2008,f,390,98,bk,51,62,"c mouth,c,c,c,c,c,c,c,c,c",C,,3164,ynm,2004,m,431,122,bk,44,48,"c,c,c,c",C,,3158,yne,2004,f,401,101,,44,47,"c,c,c",C
+9617,gcx,2008,f,399,100,bk,45,49,"c mouth,c mouth,c,c,c,c",C,,2412,bdm,2004,m,408,135,,35,45,"c,c,c,c,c,c,c,c,c,c",C,,3134,yma,2004,f,404,100,sen,44,49,"c,c,c",C
+9619,gcv,2008,f,415,102,bk,42,49,"c mouth,c mouth,c,c mouth,c,c,c,c",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+9621,gcs,2008,f,424,11,,42,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3164,ynm,2004,m,431,122,bk,44,48,"c,c,c,c",C,,3158,yne,2004,f,401,101,,44,47,"c,c,c",C
+9623,gco,2008,f,388,108,bk,41,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2699,wtp,2004,f,397,109,bk,33,40,"c,c,c,c,c,c,c,c",C
+9625,gcm,2008,f,478,102,sen,40,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+9626,gcl,2008,f,407,100,bk,44,48,"c mouth,c mouth,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+9627,gck,2008,f,423,106,sen,42,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9629,gch,2008,f,395,102,bk,40,48,"c mouth,c mouth,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+9631,gcd,2008,f,408,103,bk,47,62,"c mouth,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9633,gcb,2008,m,403,107,bk,39,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,3163,ynl,2004,f,391,99,bk,44,48,"c,c,c,c",C
+9634,gca,2008,m,408,120,,46,54,"c mouth,c mouth,c mouth,c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+9636,gey,2008,f,425,107,bk,45,48,"c mouth,c mouth,c,c,c",C,,3164,ynm,2004,m,431,122,bk,44,48,"c,c,c,c",C,,3158,yne,2004,f,401,101,,44,47,"c,c,c",C
+9637,gex,2008,f,413,101,bk,42,49,"c mouth,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2712,wvg,2004,f,445,114,bk,33,55,"c,c,c,c,c,c,c,c,c,c",C
+9638,gew,2008,m,428,136,,42,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9639,gev,2008,f,398,102,,46,46,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9640,get,2008,f,419,104,,40,40,"c mouth,c,c,c beach",C,,3138,yme,2004,m,406,117,,44,47,"c,c,c",C,,2667,wsa,2004,f,444,106,sen,34,41,"c,c,c,c,c,c",C
+9641,ges,2008,f,403,100,,40,54,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,2162,ykc,2004,f,415,97,bk,33,49,"c,c,c,c,c,c,c,c,c,c mouth",C
+9642,geo,2008,m,401,133,,38,44,"c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+9644,gen,2008,f,429,110,bk,38,48,"c,c,c,c,c,c,c,c,c,c",C,,2669,wsc,2004,m,419,131,bk,33,40,"c,c,c,c,c,c,c,c",C,,2667,wsa,2004,f,444,106,sen,34,41,"c,c,c,c,c,c",C
+9645,gem,2008,f,405,83,bk,38,49,"c,c,c,c,c,c,c,c,c,c,c,c",C,,2601,wlt,2004,m,419,116,bk,33,41,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+9646,gel,2008,f,396,104,sen,38,56,"c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+9647,yto,2008,f,403,99,sen,45,59,"a mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+9649,ytm,2008,f,492,135,,44,44,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9650,ytl,2008,m,478,152,sen,40,47,"a mouth,a,a,a,a,a,a,a beach",A,,,,,,,,,,,,,,,,,,,,,,,,
+9652,ytj,2008,m,402,101,,41,49,"a mouth,a mouth,a,a,a",A,,2781,wzs,2004,m,401,100,bk,35,37,"a,a,c,a",A,,2793,wwh,2004,f,438,104,bk,35,44,"a,a,a mouth,a,a",A
+9653,yth,2008,m,414,124,,53,54,"a mouth,a mouth,a mouth,a,a",A,,3467,yxk,2004,m,409,117,,56,56,a,A,,3354,yvj,2004,f,399,103,bk,51,55,"a,a,a,a,a",A
+9655,ytd,2008,m,478,169,,46,46,"a mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9660,yvy,2008,f,397,98,bk,47,49,"a mouth,c mouth,c mouth,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9663,yvv,2008,m,482,144,,40,47,"a mouth,a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9671,yvk,2008,m,392,118,,44,59,"a mouth,a mouth,a mouth,a,a,a mouth,a mouth,a,a,a,a,a,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+9677,yvb,2008,f,471,117,sen,40,45,"a mouth,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9682,yww,2008,m,447,145,bk,53,55,"a mouth,a mouth,a mouth,a,a,a",A,,3122,bsk,2004,m,405,115,bk,44,48,"a,a,a,a",A,,3128,bst,2004,f,384,100,bk,44,48,"a,a,a",A
+9684,ywt,2008,f,423,104,bk,46,47,"a mouth,a mouth,a,a",A,,3467,yxk,2004,m,409,117,,56,56,a,A,,3175,ypb,2004,f,411,98,bk,45,49,"a,a,a,a",A
+9692,ywj,2008,m,438,164,,47,47,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9803,gjs,2008,m,418,113,bk,44,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+9805,gjo,2008,f,473,131,,43,43,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9806,gjn,2008,f,418,103,flop,41,49,"c mouth,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+9811,gjh,2008,f,421,102,bk,41,50,"c mouth,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+9812,gje,2008,f,409,98,bk,44,48,"c mouth,c,c,c,c,c",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,3159,yng,2004,f,392,100,bk,44,48,"c,c,c,c",C
+9819,gka,2008,f,378,87,sen,45,55,"c mouth,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9820,gkd,2008,f,394,107,,54,54,"c mouth,c mouth,c",C,,,,,,,,,,,,,,2384,bcc,2004,f,490,148,,35,35,c,C
+9823,gkk,2008,m,437,126,,55,55,"c mouth,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9824,gkl,2008,f,453,121,,46,46,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9825,gkj,2008,f,385,95,bk,45,49,"c mouth,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9829,gkp,2008,f,425,112,,46,53,"c mouth,c mouth,c,c,c,c,c,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+9830,gks,2008,f,392,100,bk,45,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3166,ynp,2004,f,411,103,bk,44,61,"c,c,c",C
+9833,gkx,2008,f,405,101,bk,45,55,"c mouth,c,c,c,c",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+9836,gkz,2008,f,442,121,,42,59,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9837,gla,2008,f,398,89,bk,43,50,"c mouth,c,c,c,c,c",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+9839,glc,2008,f,394,101,sen,42,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c",C,,2708,wvb,2004,m,423,130,bk,34,43,"c,c,c,c,c,c,c,c,c",C,,2705,wty,2004,f,410,104,bk,34,42,"c,c,c,c,c,c",C
+9840,gld,2008,f,485,126,,59,59,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9841,gle,2008,f,390,97,bk,49,55,"c mouth,c mouth,c,c,c,c,c,c,c",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,2293,bhm,2004,f,398,110,,38,47,"c,c mouth,c,c,c",C
+9842,glj,2008,f,394,100,sen,42,56,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+9843,glh,2008,f,393,104,sen,50,62,"c mouth,c,c,c,c,c,c,c,c,c",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3189,ypv,2004,f,416,107,bk,45,49,"c,c,c",C
+9844,glk,2008,f,411,105,bk,40,63,"c,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9846,glm,2008,f,406,105,,52,52,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9848,glo,2008,f,435,116,,49,49,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9850,gls,2008,f,415,101,sen,44,63,"c,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+9851,glt,2008,f,420,101,bk,47,49,"c mouth,c,c",C,,2677,wsm,2004,m,379,118,,33,34,"c,c",C,,2623,wmw,2004,f,407,105,bk,33,42,"c,c,c,c,c,c",C
+9852,glv,2008,f,409,100,,47,48,"c mouth,a mouth,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,2612,wmg,2004,f,399,99,bk,33,53,"c,c,c,c,c",C
+9853,glw,2008,f,402,108,bk,45,48,"c mouth,c,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+9857,gma,2008,f,405,106,sen,42,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+9858,gmb,2008,f,485,130,,49,49,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9861,gme,2008,f,413,111,bk,44,48,"c mouth,c,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+9863,gmj,2008,m,486,133,sen,42,51,"c mouth,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9865,gml,2008,f,391,100,bk,43,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+9867,gmn,2008,f,404,97,bk,42,58,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9868,gmo,2008,f,404,109,bk,45,49,"c mouth,c,c,c,c,c",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3145,ymn,2004,f,394,99,,44,44,c,C
+9869,gmp,2008,f,410,100,bk,46,62,"c mouth,c,c,c,c,c,c,c,c,c,c,c",C,,2608,wmb,2004,m,432,125,sen,33,47,"c,c,c,c,c,c,c,c",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9871,gmt,2008,f,408,101,sen,41,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2412,bdm,2004,m,408,135,,35,45,"c,c,c,c,c,c,c,c,c,c",C,,3134,yma,2004,f,404,100,sen,44,49,"c,c,c",C
+9872,gmv,2008,f,404,102,bk,45,49,"c mouth,c,c,c,c,c",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3147,yms,2004,f,397,107,bk,44,48,"c,c,c,c",C
+9874,gmw,2008,f,409,104,sen,43,54,"c mouth,c,c,c,c,c,c,c,c,c,c",C,,2608,wmb,2004,m,432,125,sen,33,47,"c,c,c,c,c,c,c,c",C,,2284,bhb,2004,f,424,101,,38,39,"c,c",C
+9878,gnb,2008,f,403,102,bk,43,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3158,yne,2004,f,401,101,,44,47,"c,c,c",C
+9879,gnc,2008,f,388,109,,47,47,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9881,gne,2008,f,414,103,,42,53,"c mouth,c,c,c,c,c,c,c,c,c",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,3155,ynb,2004,f,424,113,,44,51,"c,c,c,c",C
+9887,yzk,2008,f,396,100,sen,40,55,"a,a mouth,a,a,a,a,c,a,a,a,a beach",A,,2772,wze,2004,m,415,122,bk,35,36,"a,a",A,,3228,wat,2004,f,365,105,bk,47,55,"a,a,a,a",A
+9888,yzj,2008,m,504,150,,40,48,"a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,3128,bst,2004,f,384,100,bk,44,48,"a,a,a",A
+9889,yzh,2008,m,508,150,,40,48,"a,a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9890,yze,2008,f,479,124,bk,40,47,"a,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9891,yzd,2008,m,476,142,,40,43,"a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9892,yzc,2008,m,445,128,sen,40,46,"a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+9893,gnn,2008,f,387,100,,40,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+9894,gno,2008,f,423,103,bk,40,48,"c,c,c,c,c,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9895,gnp,2008,f,418,106,bk,40,48,"c,c,c,c,c,c,c",C,,2164,yke,2004,m,415,105,sen,33,39,"c,c,c,c,c,c,c mouth",C,,2170,ykn,2004,f,403,100,,33,49,"c,c,c,c mouth",C
+9896,gns,2008,f,389,99,bk,40,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,,,,,,,,,,,
+9897,gnt,2008,f,383,92,sen,40,51,"c,c,c,c,c,c,c,c,c,c",C,,2714,wvk,2004,m,392,118,bk,33,40,"c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+9898,gnv,2008,f,436,117,bk,40,50,"c,c,c,c,c,c,c",C,,2601,wlt,2004,m,419,116,bk,33,41,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+9899,gnw,2008,f,423,98,bk,40,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2425,bed,2004,f,425,110,bk,36,52,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9900,gnx,2008,f,382,97,sen,40,55,"c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+9901,yaz,2008,m,396,125,sen,43,51,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a,a,a mouth,a mouth,a mouth",A,,2781,wzs,2004,m,401,100,bk,35,37,"a,a,c,a",A,,2793,wwh,2004,f,438,104,bk,35,44,"a,a,a mouth,a,a",A
+9902,yay,2008,m,428,116,,41,41,"a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+9903,yax,2008,m,405,119,bk,43,47,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a mouth",A,,2906,bnk,2004,m,376,104,bk,41,42,"a,a",A,,2854,bkw,2004,f,387,111,bk,41,42,"a,a",A
+9912,yal,2008,m,384,119,bk,40,47,"a mouth,a,a,a,a,a,a,a,a,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+9918,yac,2008,m,411,136,bk,41,48,"a mouth,a mouth,a,a,a,a,a,a,a,a,a,a mouth",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+9921,ybz,2008,m,418,139,bk,41,50,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a,a,a,a mouth,a mouth,a mouth",A,,2457,bgj,2004,m,383,109,,36,48,"a,a,a,a,a,a,a,a",A,,2504,bja,2004,f,423,105,bk,39,45,"a,a,a",A
+9926,ybt,2008,f,408,99,bk,42,51,"c mouth,c mouth,c,c,c,c,c,c,c,a mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3163,ynl,2004,f,391,99,bk,44,48,"c,c,c,c",C
+9927,ybs,2008,f,445,119,bk,40,50,"a mouth,a mouth,a,a mouth,a,a,a,a,a,a,a,a,a mouth,a mouth",A,,2760,wyp,2004,m,420,121,bk,34,39,"a,a,a,a",A,,2761,wys,2004,f,419,109,bk,34,36,"a,a,a",A
+9928,ybp,2008,f,403,106,bk,43,51,"a mouth,a mouth,a,a,a,a,a,a,a mouth",A,,2770,wzc,2004,m,429,122,bk,34,37,"a,a,a",A,,2315,ylk,2004,f,413,113,bk,33,37,"a,a,a,a",A
+9931,ybm,2008,f,466,126,sen,40,46,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+9932,ybl,2008,f,388,102,,44,45,"a mouth,a mouth,a,a,a mouth",A,,2149,yhz,2004,m,392,104,bk,47,48,"c mouth,a mouth,a,a,c mouth",A,,3239,wbg,2004,f,406,99,bk,47,48,"a,a",A
+9933,ybk,2008,f,456,127,sen,37,49,"a mouth,c,c,c,c,c,c,c,c,c,c,c,c,a mouth,a mouth,a mouth,a mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9935,ybh,2008,f,425,111,bk,43,48,"a mouth,a,a,a,a,a,a,a,a mouth",A,,2429,bej,2004,m,376,107,bk,36,38,"a,a",A,,2777,wzl,2004,f,422,99,bk,33,37,"a,a,a,a",A
+9936,ybe,2008,f,419,111,bk,40,47,"a mouth,a mouth,a,a,a,a,a,a,a,a,a mouth",A,,2462,bgk,2004,m,405,113,bk,36,43,"a,a",A,,2901,bnd,2004,f,400,106,bk,41,43,"a,a",A
+9938,ybc,2008,m,439,139,flop,40,43,"a mouth,a mouth,a,a,a,a,a,a mouth,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+9940,yba,2008,m,465,140,,40,48,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a,a,a mouth,a mouth,a mouth",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3187,yps,2004,f,418,104,bk,45,48,"a,a,a",A
+9941,ycz,2008,f,392,94,bk,46,47,"a mouth,a mouth,a,a,a mouth",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3236,wbc,2004,f,379,94,,47,58,"a,a,a,a,a,a",A
+9943,ycx,2008,m,410,122,bk,40,50,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a,a,a,a mouth,a mouth",A,,2313,ylh,2004,m,454,139,bk,33,37,"a,a,a,a",A,,2312,ylg,2004,f,431,109,bk,35,37,"a,a,a,a",A
+9948,ycp,2008,m,402,108,flop,41,47,"a mouth,a,a,a,a,a,a,a,a mouth",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3123,bsl,2004,f,394,102,,44,47,"a,a,a",A
+9950,ycn,2008,m,433,130,bk,43,47,"a,a,a,a,a,a mouth",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,3394,ywk,2004,f,398,100,bk,52,55,"a,a,a,a",A
+9951,ycm,2008,m,372,117,,40,43,"a mouth,a mouth,a,a mouth,a,a,a,a mouth",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+9952,ycl,2008,m,428,117,sen,43,54,"a mouth,a mouth,a,a mouth,a mouth,a mouth,a,a,a beach,a mouth",A,,3174,ypa,2004,m,399,108,bk,45,48,"a,a,a",A,,3130,bsw,2004,f,388,104,bk,44,48,"a,a,a,a",A
+9954,ycj,2008,f,383,99,bk,45,48,"a mouth,a mouth,a,a,a,a,a mouth,a mouth",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,3394,ywk,2004,f,398,100,bk,52,55,"a,a,a,a",A
+9955,ych,2008,f,365,93,,40,40,"a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+9956,yce,2008,f,400,94,bk,42,50,"a mouth,a mouth,a,a,a,a,a,a,a,a,a,a,a mouth",A,,2760,wyp,2004,m,420,121,bk,34,39,"a,a,a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+9965,paz,2008,m,397,112,sen,37,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+9966,pay,2008,m,477,152,sen,37,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9968,paw,2008,f,417,102,,37,37,"c,c mouth",C,,3261,wcj,2004,m,378,114,bk,47,48,"a,a",A,,3270,wcw,2004,f,407,91,bk,47,48,"a,a",A
+9969,pav,2008,m,421,133,sen,37,50,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9972,pap,2008,m,412,115,sen,37,48,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2815,gtp,2008,f,399,95,,,,c mouth,none
+9973,pao,2008,m,444,147,,40,40,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9974,pan,2008,f,431,114,sen,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9976,pal,2008,m,409,121,bk,41,50,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9977,pak,2008,m,431,141,bk,42,49,"c mouth,c mouth,c mouth,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,2293,bhm,2004,f,398,110,,38,47,"c,c mouth,c,c,c",C
+9979,pah,2008,m,422,148,sen,37,48,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+9980,pae,2008,m,434,147,sen,37,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+9981,pac,2008,f,435,109,sen,37,50,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+9982,pad,2008,m,419,129,sen,37,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+9983,pab,2008,m,442,147,bk,37,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+9984,paa,2008,m,425,149,sen,43,43,"c beach,c,c mouth,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,,,,,,,,,,,
+9985,pbz,2008,m,441,155,bk,37,62,"c mouth,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c,c mouth,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9986,pby,2008,m,434,152,sen,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,2612,wmg,2004,f,399,99,bk,33,53,"c,c,c,c,c",C
+9987,pbx,2008,f,428,121,,43,43,"c beach,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9988,pbw,2008,f,432,105,sen,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+9989,pbv,2008,m,442,132,,37,37,"a mouth,c,c,c mouth,c mouth,c mouth,c mouth,c mouth",C,,2313,ylh,2004,m,454,139,bk,33,37,"a,a,a,a",A,,2312,ylg,2004,f,431,109,bk,35,37,"a,a,a,a",A
+9990,pbt,2008,m,443,152,sen,37,47,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+9991,pbs,2008,m,409,124,,37,47,"c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2612,wmg,2004,f,399,99,bk,33,53,"c,c,c,c,c",C
+9992,pbp,2008,m,435,149,bk,37,48,"c,a mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+9993,pbo,2008,m,418,137,bk,37,59,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+9994,pbn,2008,m,421,143,sen,37,52,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+9995,pbm,2008,m,417,120,sen,37,48,"c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+9996,pbl,2008,m,432,140,sen,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,3134,yma,2004,f,404,100,sen,44,49,"c,c,c",C
+9999,pbh,2008,m,421,131,sen,37,53,"c mouth,c,a mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,3168,ynt,2004,f,424,97,bk,38,54,"c,c,c,c,c",C
+10000,pbe,2008,m,421,112,sen,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2722,wvv,2004,m,409,115,,34,43,"a,c,c,c,c,c,c,c,c,c",C,,2160,yjb,2004,f,436,110,bk,33,52,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+10210,peh,2008,m,415,131,bk,42,49,"c mouth,c,c,c,c,c,c,c,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+10211,pee,2008,f,473,119,,44,44,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10218,phw,2008,f,415,106,sen,37,56,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+10219,peb,2008,m,382,122,sen,39,45,"c mouth,c,c,c,c,c,c,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3163,ynl,2004,f,391,99,bk,44,48,"c,c,c,c",C
+10220,phy,2008,m,401,121,sen,37,48,"c mouth,c,a mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3158,yne,2004,f,401,101,,44,47,"c,c,c",C
+10221,pht,2008,f,412,105,,44,50,"c mouth,c mouth,c,c,c,c,c,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,3162,ynk,2004,f,404,107,sen,44,49,"c,c,c,c,c",C
+10222,phv,2008,m,409,128,,37,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+10224,php,2008,f,391,101,sen,39,59,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+10225,pho,2008,m,429,139,flop,37,42,"c beach,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10226,phm,2008,m,426,132,bk,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2712,wvg,2004,f,445,114,bk,33,55,"c,c,c,c,c,c,c,c,c,c",C
+10227,phl,2008,f,422,104,sen,43,52,"c mouth,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2669,wsc,2004,m,419,131,bk,33,40,"c,c,c,c,c,c,c,c",C,,2667,wsa,2004,f,444,106,sen,34,41,"c,c,c,c,c,c",C
+10228,phk,2008,m,397,112,bk,37,50,"c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2162,ykc,2004,f,415,97,bk,33,49,"c,c,c,c,c,c,c,c,c,c mouth",C
+10230,phj,2008,f,422,110,sen,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3147,yms,2004,f,397,107,bk,44,48,"c,c,c,c",C
+10231,phh,2008,f,412,107,sen,39,51,"c,c,c,c,c,c,c,c,c,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+10232,phn,2008,f,413,115,,38,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+10233,phe,2008,f,412,101,,37,37,"c mouth,c,c mouth,c mouth",C,,,,,,,,,,,,,,2744,wxw,2004,f,393,101,bk,34,39,"a,a,a",A
+10234,phc,2008,m,415,119,sen,37,45,"c mouth,c,c,c,c,c,c,c,c mouth",C,,2171,yjc,2004,m,381,105,bk,33,42,"c,c,c,c,c,c,c,c,c,c,c",C,,2667,wsa,2004,f,444,106,sen,34,41,"c,c,c,c,c,c",C
+10235,phx,2008,m,404,126,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+10236,pha,2008,f,408,105,,37,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+10237,phb,2008,m,403,118,bk,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2924,bpg,2004,f,424,100,sen,41,49,"c,c,c,c,c,c,c,c",C
+10238,pjz,2008,f,433,105,sen,38,62,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+10239,pjw,2008,f,422,110,sen,41,58,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+10240,pjy,2008,f,404,115,sen,38,58,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2699,wtp,2004,f,397,109,bk,33,40,"c,c,c,c,c,c,c,c",C
+10242,pjo,2008,m,391,114,bk,40,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+10244,pjp,2008,m,399,125,bk,37,48,"c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3161,ynj,2004,f,392,105,,44,51,"c,c,c,c,c",C
+10245,pjm,2008,f,410,105,sen,41,63,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2708,wvb,2004,m,423,130,bk,34,43,"c,c,c,c,c,c,c,c,c",C,,2705,wty,2004,f,410,104,bk,34,42,"c,c,c,c,c,c",C
+10246,pjn,2008,m,430,141,bk,37,48,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+10247,pjx,2008,f,406,99,bk,39,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+10248,pjl,2008,f,401,98,,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+10249,pjh,2008,m,425,148,,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2927,1195UT_utf103,2004,f,457,,bk,41,41,c,C
+10250,pjk,2008,m,424,136,sen,43,58,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+10251,pjb,2008,m,417,118,sen,42,58,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2927,1195UT_utf103,2004,f,457,,bk,41,41,c,C
+10252,pjj,2008,m,418,130,sen,37,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c beach,c mouth,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+10253,pjd,2008,m,412,138,,37,37,"c mouth,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10254,pje,2008,f,396,96,,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+10255,pkz,2008,m,410,113,bk,40,50,"a mouth,a,a,a,a,a,a,a,a,a,a,a,c mouth",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3123,bsl,2004,f,394,102,,44,47,"a,a,a",A
+10256,pjc,2008,f,439,117,sen,53,53,"c,c mouth",C,,,,,,,,,,,,,,2712,wvg,2004,f,445,114,bk,33,55,"c,c,c,c,c,c,c,c,c,c",C
+10257,pja,2008,f,409,106,sen,37,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+10258,pky,2008,f,405,105,bk,38,49,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2701,wtt,2004,m,419,130,bk,34,42,"c,c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+10259,pkx,2008,m,380,113,bk,45,55,"c mouth,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3160,ynh,2004,f,377,94,sen,37,49,"c,c,c,c,c,c",C
+10261,pkv,2008,f,464,119,,45,45,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10262,pkt,2008,m,385,112,sen,39,44,"c,c,c,c,c,c,c mouth,c mouth",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+10263,pko,2008,m,405,119,bk,43,48,"c mouth,c mouth,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+10264,pks,2008,f,407,102,sen,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2415,bds,2004,f,416,108,,33,45,"c,c,c,c,c,c,c,c,c",C
+10265,pkp,2008,f,406,103,sen,37,52,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+10266,phd,2008,f,419,99,bk,41,48,"c mouth,c,c,c,c,c,c,c mouth",C,,2111,ydz,2004,m,423,137,,34,45,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2817,gtn,2008,f,401,90,,,,c mouth,none
+10267,pkn,2008,f,400,105,sen,38,58,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2415,bds,2004,f,416,108,,33,45,"c,c,c,c,c,c,c,c,c",C
+10268,pkk,2008,f,419,107,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,2612,wmg,2004,f,399,99,bk,33,53,"c,c,c,c,c",C
+10269,pkl,2008,f,410,105,sen,37,55,"c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+10270,pkj,2008,m,401,115,,41,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+10271,pke,2008,f,399,86,,47,47,"c mouth,c mouth,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+10272,pkh,2008,m,407,122,bk,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,3168,ynt,2004,f,424,97,bk,38,54,"c,c,c,c,c",C
+10273,pkc,2008,m,436,125,sen,37,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3296,yvd,2004,nosex,419,114,bk,50,54,"c,c,c",C
+10275,plz,2008,f,402,105,,44,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3296,yvd,2004,nosex,419,114,bk,50,54,"c,c,c",C
+10276,pkb,2008,f,399,104,sen,40,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2412,bdm,2004,m,408,135,,35,45,"c,c,c,c,c,c,c,c,c,c",C,,3134,yma,2004,f,404,100,sen,44,49,"c,c,c",C
+10277,pka,2008,m,407,107,flop,39,46,"c mouth,c,c,c,c,c,c,c,c mouth",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,3149,ymv,2004,f,430,110,,44,45,"c,c,c",C
+10278,ply,2008,f,426,111,sen,50,50,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10279,plw,2008,m,385,129,bk,39,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2701,wtt,2004,m,419,130,bk,34,42,"c,c,c,c,c,c,c,c",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+10280,pjt,2008,m,403,117,bk,39,50,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2815,gtp,2008,f,399,95,,,,c mouth,none
+10281,plv,2008,f,429,111,sen,37,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+10282,plt,2008,f,415,105,sen,40,50,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2413,bdn,2004,f,420,111,bk,35,41,"c,c,c,c,c,c",C
+10283,pls,2008,f,417,109,sen,37,52,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+10284,plo,2008,f,414,106,sen,39,53,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+10285,plp,2008,f,392,99,,38,47,"c mouth,c,c mouth,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+10290,ple,2008,m,414,119,bk,42,49,"c mouth,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,3163,ynl,2004,f,391,99,bk,44,48,"c,c,c,c",C
+10291,plk,2008,f,418,109,,49,49,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10292,plc,2008,m,418,120,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+10294,pld,2008,f,407,100,flop,37,38,"c beach,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+10295,pkm,2008,f,417,116,,38,38,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10297,pmx,2008,f,411,103,sen,38,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2815,gtp,2008,f,399,95,,,,c mouth,none
+10298,pmz,2008,m,394,111,,37,48,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+10299,pmy,2008,f,422,107,bk,37,50,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+10503,yxw,2008,m,488,156,,43,47,"a mouth,a,a,a,a,a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+10506,yxs,2008,f,465,120,bk,41,48,"a mouth,a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10512,yxj,2008,f,415,106,bk,47,47,"a mouth,a mouth,a mouth,a",A,,3263,wcl,2004,m,432,137,bk,47,48,"a,a",A,,3259,wcg,2004,f,409,99,bk,47,48,"a,a",A
+10514,yxe,2008,m,433,128,,43,43,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10521,yyx,2008,f,450,122,bk,46,50,"a mouth,a mouth,a mouth,a,a,a,a,a",A,,3262,wck,2004,m,431,124,bk,47,48,"a,a",A,,3267,wcs,2004,f,430,107,bk,47,48,"a,a",A
+10524,yyt,2008,f,427,102,,46,46,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10525,yys,2008,f,392,101,bk,45,48,"a mouth,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+10528,yyn,2008,f,415,110,bk,51,59,"a mouth,a mouth,a mouth,c,c,c,c,c,c,c",C,,3249,wbv,2004,m,421,127,bk,47,48,"a,a",A,,3239,wbg,2004,f,406,99,bk,47,48,"a,a",A
+10529,yym,2008,m,460,145,bk,40,48,"a mouth,a,a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10532,yyj,2008,m,472,148,bk,43,47,"a mouth,a mouth,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10533,yyh,2008,f,402,101,bk,46,47,"a mouth,a mouth,a mouth,a,a",A,,2735,wxk,2004,m,400,103,bk,34,42,"a,a,a,a",A,,2879,whe,2008,f,421,118,sen,,,"a beach,a beach",none
+10536,yyc,2008,f,407,104,bk,46,47,"a mouth,a mouth,a mouth,a,a",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3236,wbc,2004,f,379,94,,47,58,"a,a,a,a,a,a",A
+10541,yzx,2008,f,365,97,bk,41,50,"a mouth,a,a,a,a,a,a,a,a,a,a,a",A,,2314,ylj,2004,m,454,132,,33,35,"a,a",A,,2302,wwt,2004,f,439,111,bk,33,37,"a,a,a,a,a",A
+10543,yzv,2008,f,437,108,bk,40,47,"a mouth,a,a,a,a,a,a,a,a",A,,2313,ylh,2004,m,454,139,bk,33,37,"a,a,a,a",A,,2312,ylg,2004,f,431,109,bk,35,37,"a,a,a,a",A
+10544,yzt,2008,f,413,108,,42,42,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10546,yzp,2008,m,394,110,,45,45,"a mouth,a mouth,a mouth,a,a mouth,a mouth",A,,3396,ywl,2004,m,372,109,,52,54,"a,a,a",A,,3458,ywz,2004,f,430,112,,53,54,"a,a",A
+10547,yzo,2008,f,475,114,bk,43,47,"a mouth,a mouth,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+10548,yzn,2008,m,406,122,,43,46,"a mouth,a mouth,a,a,a",A,,2772,wze,2004,m,415,122,bk,35,36,"a,a",A,,2744,wxw,2004,f,393,101,bk,34,39,"a,a,a",A
+10550,yzl,2008,m,307,79,,57,57,"a mouth,a mouth,a mouth,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,,,,,,,,,,,
+10552,gek,2008,m,400,155,sen,39,46,"c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10553,gej,2008,m,450,131,bk,39,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+10554,geh,2008,f,408,104,bk,39,48,"c,c,c,c,c,c,c,c,c,c,c",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,3168,ynt,2004,f,424,97,bk,38,54,"c,c,c,c,c",C
+10555,gee,2008,f,405,92,bk,39,49,"c,c,c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+10556,ged,2008,f,395,102,bk,39,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+10557,gec,2008,f,382,96,bk,39,49,"c,c,c,c,c,c,c,c,c,c",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+10558,gea,2008,f,393,107,,44,44,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10559,geb,2008,f,407,106,bk,41,48,"c mouth,c,c,c,c,c,c,c,c",C,,2111,ydz,2004,m,423,137,,34,45,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2817,gtn,2008,f,401,90,,,,c mouth,none
+10562,gdc,2008,f,386,107,,54,54,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10563,gde,2008,f,467,133,,45,45,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10565,gdk,2008,f,395,96,,46,59,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,3149,ymv,2004,f,430,110,,44,45,"c,c,c",C
+10576,gdy,2008,f,381,97,bk,47,48,"c mouth,c beach,c mouth,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10577,gdz,2008,f,390,100,sen,41,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10584,ghj,2008,f,431,109,,,,c mouth,none,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3189,ypv,2004,f,416,107,bk,45,49,"c,c,c",C
+10585,ghl,2008,m,444,122,bk,46,55,"c mouth,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+10588,gho,2008,f,397,97,sen,40,62,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2698,wtn,2004,m,455,129,,33,40,"c,c,c,c,c,c,c",C,,2158,ykz,2004,f,420,114,bk,33,41,"c,c,c,c,c,c,c mouth",C
+10589,ghp,2008,f,381,95,bk,51,60,"c mouth,c,c,c,c,c,c,c,c",C,,3138,yme,2004,m,406,117,,44,47,"c,c,c",C,,2696,wtl,2004,f,426,102,bk,33,41,"c,c,c,c,c",C
+10591,ght,2008,f,403,101,bk,45,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,3155,ynb,2004,f,424,113,,44,51,"c,c,c,c",C
+10592,ghv,2008,f,407,107,,46,64,"c,c,c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+10596,ghz,2008,f,406,97,bk,42,55,"c mouth,c,c,c,c,c,c,c,c,c,c",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+10598,gjy,2008,f,432,103,,40,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+10599,gjx,2008,m,378,111,,52,52,"c mouth,c mouth,c",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3145,ymn,2004,f,394,99,,44,44,c,C
+10840,pox,2008,m,401,117,,38,46,"c mouth,c,c,c mouth,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10841,pow,2008,f,467,124,bk,39,48,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10842,pov,2008,f,395,109,sen,37,57,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10843,pot,2008,f,447,108,sen,37,60,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10844,poy,2008,m,392,131,sen,37,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10845,pop,2008,f,422,117,bk,37,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+10846,pos,2008,f,386,95,,39,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11801,pms,2008,f,431,107,sen,39,58,"c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2415,bds,2004,f,416,108,,33,45,"c,c,c,c,c,c,c,c,c",C
+11802,pmw,2008,f,418,101,sen,37,57,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3296,yvd,2004,nosex,419,114,bk,50,54,"c,c,c",C
+11803,pmv,2008,f,474,132,,44,44,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11804,pmt,2008,m,409,129,bk,39,48,"c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+11806,pmn,2008,m,464,148,,42,49,"c mouth,c mouth,c,c,c beach,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11807,pmo,2008,f,391,102,sen,38,48,"c mouth,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+11809,pmj,2008,m,398,116,bk,37,51,"c,a mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+11810,pmk,2008,m,446,141,,37,45,"c mouth,c,c mouth,c,c mouth,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+11811,pla,2008,f,405,110,sen,37,56,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11812,pmh,2008,f,439,118,bk,41,47,"a mouth,a,a,a,a,a,a,c mouth",A,,2313,ylh,2004,m,454,139,bk,33,37,"a,a,a,a",A,,,,,,,,,,,,
+11813,plx,2008,f,439,116,,49,49,"c mouth,c beach,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11814,pme,2008,f,442,113,bk,42,48,"c mouth,c mouth,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11815,pml,2008,m,406,125,sen,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2210,bgt,2004,f,413,100,sen,37,49,"c,c,c,c,c,c,c,c,c",C
+11816,pmd,2008,f,413,111,sen,38,53,"a mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11817,pnw,2008,f,439,121,flop,44,44,"c beach,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11818,pmb,2008,f,459,123,sen,40,54,"c mouth,c mouth,c mouth,c,c,c beach,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11819,pma,2008,f,414,103,bk,43,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11820,pnz,2008,f,383,100,sen,41,56,"c,c,c,c,c,c,c,c,c mouth",C,,2646,wnz,2004,m,502,147,,33,39,"c,c,c,c,c,c",C,,2705,wty,2004,f,410,104,bk,34,42,"c,c,c,c,c,c",C
+11821,pnx,2008,m,394,121,sen,37,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+11823,pnv,2008,f,421,103,sen,39,53,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2636,wnl,2004,m,406,130,sen,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11824,pns,2008,f,393,91,bk,42,52,"c,c,c,c,c,c,c mouth",C,,2601,wlt,2004,m,419,116,bk,33,41,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11825,pny,2008,f,395,100,bk,37,50,"c mouth,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+11827,pno,2008,f,406,102,bk,42,53,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+11828,pnn,2008,m,452,144,sen,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+11829,pnj,2008,f,425,114,bk,40,48,"a mouth,c mouth,c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2425,bed,2004,f,425,110,bk,36,52,"c,c,c,c,c,c,c,c,c,c,c,c",C
+11830,pnt,2008,f,365,88,sen,39,53,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+11831,pnl,2008,f,415,102,bk,37,48,"c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11832,pne,2008,f,398,109,sen,42,57,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+11833,pnk,2008,f,441,119,bk,42,50,"c mouth,c mouth,c,c,c,c,c,c,c,c mouth",C,,2283,bha,2004,m,430,150,sen,38,39,"c,c",C,,,,,,,,,,,,
+11834,pna,2008,m,433,138,bk,42,49,"c mouth,c mouth,c,c,c,c,c,c,c mouth",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+11835,pnh,2008,f,392,97,sen,56,56,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11836,pnd,2008,f,418,101,sen,39,58,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2669,wsc,2004,m,419,131,bk,33,40,"c,c,c,c,c,c,c,c",C,,2667,wsa,2004,f,444,106,sen,34,41,"c,c,c,c,c,c",C
+11837,pnb,2008,m,456,147,sen,37,47,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11838,pnp,2008,m,400,128,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+11839,poz,2008,m,402,133,bk,39,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2815,gtp,2008,f,399,95,,,,c mouth,none
+11847,yho,2008,f,397,108,bk,47,47,"a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11849,yhn,2008,f,397,98,bk,42,50,"a mouth,a,a,a,a,a,a mouth",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+11850,yhj,2008,m,422,126,,40,46,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a mouth",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3182,ypk,2004,f,432,103,bk,45,48,"a,a,a",A
+11851,yhe,2008,m,464,154,,37,38,"a mouth,a mouth,a,a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11853,yjz,2008,m,407,147,sen,48,48,"a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11857,yjw,2008,m,428,143,,40,45,"a mouth,a mouth,a,a,a,a,a mouth",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,3295,wdy,2004,nosex,407,103,,50,54,"a,a,a,a",A
+11858,yha,2008,f,408,115,,,,a mouth,none,,,,,,,,,,,,,,,,,,,,,,,,
+11861,yjx,2008,m,421,134,sen,40,49,"a mouth,a mouth,a,a,a,a,a,a,a,a beach,a mouth",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3113,bpz,2004,f,384,102,bk,44,48,"a,a,a,a",A
+11864,yjn,2008,f,409,109,bk,41,47,"a mouth,a,a,a,a,a,a,a,a mouth",A,,2906,bnk,2004,m,376,104,bk,41,42,"a,a",A,,2854,bkw,2004,f,387,111,bk,41,42,"a,a",A
+11865,yjs,2008,f,417,106,sen,49,63,"c,c mouth,c mouth,c,c,c,c,c,c,c,a mouth,c",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,3149,ymv,2004,f,430,110,,44,45,"c,c,c",C
+11866,yjt,2008,m,422,126,bk,46,53,"a mouth,a mouth,a mouth,a,a,a,a,a,a mouth",A,,3256,wcc,2004,m,404,117,,47,47,a,A,,2902,bne,2004,f,405,112,bk,41,48,"a,a mouth,a,a,a",A
+11868,yjh,2008,f,398,103,bk,40,47,"a,a,a,a,a,a,a,a,a mouth",A,,2906,bnk,2004,m,376,104,bk,41,42,"a,a",A,,2854,bkw,2004,f,387,111,bk,41,42,"a,a",A
+11869,yjm,2008,f,373,94,,40,45,"a mouth,a,a,a,a,a mouth",A,,2798,wwm,2004,m,399,111,bk,35,48,"a,a mouth,a,a",A,,,,,,,,,,,,
+11870,yjd,2008,f,428,113,sen,40,47,"a mouth,a,a,a,a,a,a,a,a,a mouth",A,,2770,wzc,2004,m,429,122,bk,34,37,"a,a,a",A,,2315,ylk,2004,f,413,113,bk,33,37,"a,a,a,a",A
+11873,yja,2008,f,404,99,bk,40,48,"a mouth,a mouth,a,a,a,a,a,a,a,a,a,a mouth",A,,2770,wzc,2004,m,429,122,bk,34,37,"a,a,a",A,,2349,bbc,2004,f,427,114,,33,36,"a,a,a",A
+11874,yjj,2008,f,400,105,sen,39,53,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2705,wty,2004,f,410,104,bk,34,42,"c,c,c,c,c,c",C
+11875,yje,2008,f,396,102,sen,39,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,a mouth",C,,2701,wtt,2004,m,419,130,bk,34,42,"c,c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+11877,yjb,2008,m,416,112,bk,40,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c,a mouth,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+11879,poo,2008,m,401,121,,40,48,"c mouth,c,c,c,c,c,c,c,c,c mouth",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,3163,ynl,2004,f,391,99,bk,44,48,"c,c,c,c",C
+11881,poj,2008,f,389,94,sen,42,54,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2171,yjc,2004,m,381,105,bk,33,42,"c,c,c,c,c,c,c,c,c,c,c",C,,2667,wsa,2004,f,444,106,sen,34,41,"c,c,c,c,c,c",C
+11882,poh,2008,m,425,133,bk,37,48,"c,c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+11883,poe,2008,m,443,155,,38,48,"c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+11885,pol,2008,f,416,102,sen,41,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2414,bdp,2004,m,398,118,,33,44,"c,c,c,c,c,c,c,c",C,,2170,ykn,2004,f,403,100,,33,49,"c,c,c,c mouth",C
+11886,pon,2008,m,387,107,bk,45,62,"c mouth,c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,3166,ynp,2004,f,411,103,bk,44,61,"c,c,c",C
+11887,pod,2008,f,414,103,bk,39,49,"c,c,c mouth",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3146,ymp,2004,f,415,107,bk,44,48,"c,c,c",C
+11889,pob,2008,f,379,95,bk,41,48,"c mouth,c,c,c,c,c,c,c,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+11891,ppz,2008,f,433,119,bk,39,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,3362,yvv,2004,f,400,103,bk,52,55,"a,a,a,a",A
+11892,ppy,2008,m,404,120,sen,41,56,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11893,ppx,2008,f,410,100,sen,40,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+11894,ppw,2008,m,412,130,bk,43,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3138,yme,2004,m,406,117,,44,47,"c,c,c",C,,2696,wtl,2004,f,426,102,bk,33,41,"c,c,c,c,c",C
+11895,ppv,2008,m,444,144,bk,48,53,"c mouth,c beach,c,c beach,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11896,ppt,2008,m,407,120,,38,48,"c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+11898,ppp,2008,f,399,104,sen,42,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+11899,ppo,2008,m,407,126,,41,52,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,2998,bpp,2004,f,398,111,,43,47,"c,c,c,c",C
+11900,ppn,2008,f,420,107,bk,39,49,"c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+11901,pbd,2008,m,399,127,sen,39,48,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,3155,ynb,2004,f,424,113,,44,51,"c,c,c,c",C
+11902,pbc,2008,m,441,139,,37,49,"c mouth,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11903,pbb,2008,f,439,110,sen,37,57,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+11904,pba,2008,m,407,131,sen,40,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+11906,pcy,2008,m,419,133,sen,39,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,2938,bpk,2004,f,390,100,bk,42,50,"c,c,c,c,c,c,c",C
+11907,pcx,2008,m,415,133,sen,37,52,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2924,bpg,2004,f,424,100,sen,41,49,"c,c,c,c,c,c,c,c",C
+11908,pcw,2008,m,465,143,,,,"c mouth,c mouth",none,,,,,,,,,,,,,,,,,,,,,,,,
+11909,pcv,2008,m,382,123,bk,37,48,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+11910,pct,2008,m,416,113,sen,40,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,3200,ysh,2004,nosex,369,94,,45,47,"c,c",C
+11911,pcs,2008,m,414,122,,,,c mouth,none,,,,,,,,,,,,,,,,,,,,,,,,
+11912,pcp,2008,m,460,151,sen,37,51,"c,a mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11913,pco,2008,m,414,126,sen,42,56,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+11914,pcn,2008,m,439,134,bk,39,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3162,ynk,2004,f,404,107,sen,44,49,"c,c,c,c,c",C
+11915,pcm,2008,m,386,119,bk,38,48,"c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2162,ykc,2004,f,415,97,bk,33,49,"c,c,c,c,c,c,c,c,c,c mouth",C
+11916,pcl,2008,m,424,121,bk,37,48,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11917,pck,2008,f,471,123,,47,47,"c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11918,pcj,2008,f,427,105,sen,37,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11919,pch,2008,m,463,154,sen,37,43,"c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11920,pce,2008,m,416,122,sen,37,50,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+11921,pcd,2008,f,471,132,,37,37,"c mouth,c,a mouth,c beach,c beach,c mouth,c mouth",C,,2409,bdj,2004,m,366,106,,35,45,"c,c,c,c,c,c",C,,,,,,,,,,,,
+11922,pcc,2008,m,398,125,sen,37,46,"c mouth,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2127,yew,2004,m,370,110,bk,33,40,"c,c,c,c,c,c,c,c mouth",C,,2713,wvh,2004,f,413,96,sen,33,41,"c,c,c,c,c,c,c,c",C
+11923,pcb,2008,m,429,138,sen,38,44,"c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2178,yjn,2004,m,440,132,bk,33,49,"c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11924,pca,2008,m,435,140,sen,39,47,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11925,pdz,2008,m,401,122,bk,37,50,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2412,bdm,2004,m,408,135,,35,45,"c,c,c,c,c,c,c,c,c,c",C,,3161,ynj,2004,f,392,105,,44,51,"c,c,c,c,c",C
+11926,pdy,2008,f,397,105,sen,39,56,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2636,wnl,2004,m,406,130,sen,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11927,pdx,2008,m,405,122,bk,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+11928,pdw,2008,m,399,129,bk,40,49,"a mouth,c mouth,c,a,c mouth,c,c mouth,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+11929,pdv,2008,m,391,112,sen,37,50,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+11930,pdt,2008,f,427,110,,38,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c beach,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11931,pds,2008,m,427,137,sen,40,51,"a mouth,c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3163,ynl,2004,f,391,99,bk,44,48,"c,c,c,c",C
+11932,pdp,2008,m,406,117,bk,37,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2171,yjc,2004,m,381,105,bk,33,42,"c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+11933,pdo,2008,m,413,127,,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11934,pdn,2008,f,433,109,,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11935,pdm,2008,m,403,119,sen,39,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,3200,ysh,2004,nosex,369,94,,45,47,"c,c",C
+11936,pdl,2008,m,401,119,sen,37,52,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+11937,pdk,2008,m,415,118,sen,41,56,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3166,ynp,2004,f,411,103,bk,44,61,"c,c,c",C
+11938,yez,2008,f,467,123,flop,40,42,"a mouth,a mouth,a mouth,a,a,a,a mouth,a mouth,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11939,yey,2008,f,436,109,flop,40,40,"a mouth,a,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11940,yex,2008,m,395,120,sen,40,46,"a mouth,a,a,a,a,a,a,a,a beach,a mouth,a mouth",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3123,bsl,2004,f,394,102,,44,47,"a,a,a",A
+11948,yem,2008,m,437,137,bk,42,47,"a mouth,a mouth,a,a,a,a,a,a,a mouth",A,,3174,ypa,2004,m,399,108,bk,45,48,"a,a,a",A,,3114,bsa,2004,f,410,111,sen,44,49,"a,a,a,a",A
+11949,yel,2008,f,464,120,sen,41,48,"a mouth,a,a,a,a,a,a,a,a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11950,yek,2008,m,464,148,bk,40,48,"a mouth,a,a,a,a,a,a,a,a,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11951,yej,2008,m,402,122,,42,47,"a mouth,a,a,a,a,a,a,a mouth",A,,3263,wcl,2004,m,432,137,bk,47,48,"a,a",A,,3259,wcg,2004,f,409,99,bk,47,48,"a,a",A
+11953,yee,2008,m,427,134,sen,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,a mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2415,bds,2004,f,416,108,,33,45,"c,c,c,c,c,c,c,c,c",C
+11954,yed,2008,m,394,109,bk,59,59,"a mouth,a",A,,3351,yve,2004,nosex,369,100,bk,51,55,"a,a,a,a,a,a",A,,3355,yvk,2004,f,398,106,,51,54,"a,a,a,a",A
+11955,yec,2008,m,439,142,bk,40,47,"a mouth,a mouth,a,a,a,a,a,a,a,a,a mouth,a mouth",A,,2765,wyx,2004,m,424,137,bk,34,35,"a,a",A,,2312,ylg,2004,f,431,109,bk,35,37,"a,a,a,a",A
+11956,yeb,2008,m,420,122,bk,53,55,"a mouth,a mouth,a mouth,a mouth,a mouth,c,c,c,a mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11958,ycc,2008,m,414,133,bk,40,48,"a mouth,a mouth,a,a,a,a,a,a,a,a,a,a mouth",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+11959,ycb,2008,m,408,115,,41,45,"a mouth,a,a,a,a,a,a mouth",A,,3229,wav,2004,m,424,127,,47,47,a,A,,3226,wap,2004,f,405,99,bk,47,48,"a,a",A
+11960,yca,2008,m,399,118,bk,40,47,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a mouth",A,,2772,wze,2004,m,415,122,bk,35,36,"a,a",A,,2744,wxw,2004,f,393,101,bk,34,39,"a,a,a",A
+11962,ydy,2008,m,398,127,sen,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,a mouth,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3161,ynj,2004,f,392,105,,44,51,"c,c,c,c,c",C
+11964,ydw,2008,f,400,107,flop,40,40,"a mouth,a mouth,a,a mouth",A,,2760,wyp,2004,m,420,121,bk,34,39,"a,a,a,a",A,,2306,wwz,2004,f,399,111,bk,33,37,"a,a,a,a",A
+11965,ydv,2008,f,442,120,bk,40,47,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a,a mouth",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3185,ypn,2004,f,405,102,bk,45,48,"a,a,a",A
+11966,ydt,2008,m,416,135,bk,37,48,"c,a mouth,a,a,a,a,a,a,a,a,a mouth",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3130,bsw,2004,f,388,104,bk,44,48,"a,a,a,a",A
+11967,yds,2008,m,400,122,,41,46,"a mouth,a mouth,a,a,a,a,a mouth,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11968,ydp,2008,m,418,127,,46,46,"c,a mouth,a mouth",C,,3150,ymw,2004,m,400,113,,44,47,"c,c,c",C,,,,,,,,,,,,
+11969,ydo,2008,m,388,122,,40,46,"a mouth,a,a,a,a,a,a,a,a mouth,c mouth",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+11972,ydl,2008,f,400,113,bk,40,48,"a mouth,a,a,a,a,a,a,a,a,a,a,a mouth,a mouth",A,,2760,wyp,2004,m,420,121,bk,34,39,"a,a,a,a",A,,2761,wys,2004,f,419,109,bk,34,36,"a,a,a",A
+11974,ydj,2008,f,412,110,bk,41,50,"a,a,a,a,a,a,a,a,a,a,a mouth",A,,2771,wzd,2004,m,443,141,bk,35,40,"a,a,a",A,,2787,wzz,2004,f,439,112,bk,35,40,"a,a,a",A
+11976,yde,2008,m,405,115,,40,43,"a mouth,a,a,a,a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11977,ydd,2008,f,413,105,,45,45,"a,a mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+11979,ydb,2008,f,395,109,bk,43,47,"a mouth,a,a,a,a mouth,a,a,a mouth",A,,2852,bkt,2004,m,378,109,bk,41,48,"a,a,a,a,a",A,,3125,bsn,2004,f,406,112,bk,44,48,"a,a,a,a",A
+11981,yhz,2008,m,391,122,bk,43,48,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a mouth",A,,3252,wby,2004,m,402,119,,47,54,"a,a,a,a,a",A,,,,,,,,,,,,
+11982,yhy,2008,f,418,103,,46,46,"a,a mouth,a mouth",A,,3174,ypa,2004,m,399,108,bk,45,48,"a,a,a",A,,3130,bsw,2004,f,388,104,bk,44,48,"a,a,a,a",A
+11983,yhx,2008,m,409,129,,43,49,"a mouth,a mouth,a,a,a,a,a,a,a mouth",A,,3174,ypa,2004,m,399,108,bk,45,48,"a,a,a",A,,3114,bsa,2004,f,410,111,sen,44,49,"a,a,a,a",A
+11985,yhv,2008,f,424,107,bk,42,49,"a mouth,a,a,a,a,a,a,a mouth",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,,,,,,,,,,,
+11986,yht,2008,f,398,95,bk,46,50,"a mouth,a mouth,a,a,a,a mouth",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3182,ypk,2004,f,432,103,bk,45,48,"a,a,a",A
+11987,yhs,2008,f,387,100,,42,45,"a mouth,a mouth,a mouth,a mouth,a,a,a,a,a mouth,a mouth",A,,2313,ylh,2004,m,454,139,bk,33,37,"a,a,a,a",A,,2312,ylg,2004,f,431,109,bk,35,37,"a,a,a,a",A
+11989,pdj,2008,f,440,121,sen,37,52,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11990,pdh,2008,m,404,131,sen,37,46,"c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2712,wvg,2004,f,445,114,bk,33,55,"c,c,c,c,c,c,c,c,c,c",C
+11991,pde,2008,m,433,141,bk,36,48,"c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+11992,pdd,2008,m,433,145,bk,37,62,"c mouth,c,c,c,c,c,c mouth,c mouth,c,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+11993,pdc,2008,m,395,131,,38,42,"c mouth,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2162,ykc,2004,f,415,97,bk,33,49,"c,c,c,c,c,c,c,c,c,c mouth",C
+11994,pdb,2008,m,388,134,sen,38,47,"c mouth,c,c,c,c,c,c,c,c,c mouth,a mouth,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+11995,pda,2008,m,450,143,bk,37,48,"c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+11996,pez,2008,f,453,116,sen,37,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+11997,pey,2008,m,402,125,sen,37,44,"c,c,c,c,c,c,c mouth,c mouth",C,,,,,,,,,,,,,,2162,ykc,2004,f,415,97,bk,33,49,"c,c,c,c,c,c,c,c,c,c mouth",C
+11998,pex,2008,m,402,133,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2706,wtz,2004,f,407,95,bk,34,41,"c,c,c,c,c",C
+11999,pew,2008,m,400,123,sen,38,50,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth,c mouth,c mouth,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+12000,pev,2008,m,404,130,sen,37,52,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2714,wvk,2004,m,392,118,bk,33,40,"c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+12010,ppa,2008,f,413,100,bk,39,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3147,yms,2004,f,397,107,bk,44,48,"c,c,c,c",C
+12011,psz,2008,f,412,95,bk,42,49,"c mouth,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2696,wtl,2004,f,426,102,bk,33,41,"c,c,c,c,c",C
+12012,psy,2008,f,399,105,sen,42,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2815,gtp,2008,f,399,95,,,,c mouth,none
+12013,psx,2008,f,417,113,sen,41,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,3162,ynk,2004,f,404,107,sen,44,49,"c,c,c,c,c",C
+12014,psw,2008,f,423,110,sen,37,53,"c mouth,c mouth,c,c,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+12015,psv,2008,f,412,104,,,,c mouth,none,,2709,wvc,2004,m,485,109,,34,47,"c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+12016,pst,2008,m,483,146,sen,38,51,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+12017,pss,2008,m,404,119,sen,42,63,"c,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+12019,pso,2008,f,431,108,,37,55,"c,c,c,c,c,c,c,c,c,c,c mouth",C,,2714,wvk,2004,m,392,118,bk,33,40,"c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+12020,psn,2008,f,422,109,,40,55,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2137,yhj,2004,m,416,110,,33,47,"c,c,c,c,c,c mouth",C,,2998,bpp,2004,f,398,111,,43,47,"c,c,c,c",C
+12021,psm,2008,f,413,104,flop,38,45,"c,c,c,c,c,c,c,c mouth",C,,2711,wve,2004,m,396,110,bk,33,40,"c,c,c,c,c,c,c,c",C,,2712,wvg,2004,f,445,114,bk,33,55,"c,c,c,c,c,c,c,c,c,c",C
+12022,psl,2008,f,427,110,,38,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12023,psk,2008,m,423,131,bk,40,48,"c mouth,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+12024,psj,2008,f,411,103,bk,45,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2708,wvb,2004,m,423,130,bk,34,43,"c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+12027,psd,2008,f,398,100,bk,40,49,"a mouth,c mouth,c mouth,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+12028,psc,2008,f,429,108,,40,58,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+12029,psb,2008,f,419,99,sen,41,53,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12030,psa,2008,f,391,92,sen,42,57,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+12032,pty,2008,f,387,101,,38,59,"c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+12033,ptx,2008,f,433,114,,37,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3296,yvd,2004,nosex,419,114,bk,50,54,"c,c,c",C
+12034,ptw,2008,f,422,108,bk,38,51,"c,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+12035,ptv,2008,f,390,104,,40,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+12036,ptt,2008,m,398,122,bk,40,49,"c,c,c,c,c,c,c,c,c,c,c mouth",C,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+12037,pts,2008,f,385,99,sen,37,57,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3147,yms,2004,f,397,107,bk,44,48,"c,c,c,c",C
+12038,ptp,2008,f,404,115,sen,44,62,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3164,ynm,2004,m,431,122,bk,44,48,"c,c,c,c",C,,,,,,,,,,,,
+12039,pto,2008,f,428,106,flop,53,53,"a mouth,a mouth,a,c mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+12040,ptn,2008,f,417,121,sen,43,57,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2677,wsm,2004,m,379,118,,33,34,"c,c",C,,2623,wmw,2004,f,407,105,bk,33,42,"c,c,c,c,c,c",C
+12041,ptm,2008,f,395,108,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2609,wmc,2004,m,388,117,bk,33,52,"c,c,c,c,c,c,c,c",C,,3155,ynb,2004,f,424,113,,44,51,"c,c,c,c",C
+12042,ptl,2008,f,410,106,bk,40,49,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+12043,ptk,2008,f,424,137,sen,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,3147,yms,2004,f,397,107,bk,44,48,"c,c,c,c",C
+12045,pth,2008,f,407,104,bk,37,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2699,wtp,2004,f,397,109,bk,33,40,"c,c,c,c,c,c,c,c",C
+12046,pte,2008,f,422,113,bk,40,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12047,ptd,2008,f,418,107,sen,37,56,"c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12048,ptc,2008,m,389,112,bk,44,49,"c mouth,c,c,c,c,c,c,c,c mouth",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,2293,bhm,2004,f,398,110,,38,47,"c,c mouth,c,c,c",C
+12049,ptb,2008,f,411,112,bk,41,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,,,,,,,,,,,
+12050,pta,2008,m,429,142,,37,37,"c mouth,c,c mouth",C,,,,,,,,,,,,,,3391,ywe,2004,f,395,100,bk,52,55,"a,a,a,a",A
+12051,pvz,2008,f,390,107,sen,38,53,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2111,ydz,2004,m,423,137,,34,45,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2817,gtn,2008,f,401,90,,,,c mouth,none
+12053,pvx,2008,f,407,107,sen,40,54,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+12054,pvw,2008,f,402,104,sen,43,57,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2698,wtn,2004,m,455,129,,33,40,"c,c,c,c,c,c,c",C,,2716,wvl,2004,f,417,112,bk,34,48,"c,c,c,c,c,c",C
+12056,pvt,2008,f,392,105,sen,40,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+12057,pvs,2008,f,403,109,bk,42,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2111,ydz,2004,m,423,137,,34,45,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2817,gtn,2008,f,401,90,,,,c mouth,none
+12059,pvo,2008,f,402,106,sen,43,60,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,3149,ymv,2004,f,430,110,,44,45,"c,c,c",C
+12061,pvm,2008,f,410,116,bk,40,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+12062,pvl,2008,f,402,111,bk,43,48,"c mouth,c mouth,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12063,pvk,2008,f,388,106,bk,52,52,"c mouth,c,c,c beach,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+12064,pvj,2008,f,401,111,bk,46,55,"c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2158,ykz,2004,f,420,114,bk,33,41,"c,c,c,c,c,c,c mouth",C
+12065,pvh,2008,m,405,128,sen,42,53,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,2293,bhm,2004,f,398,110,,38,47,"c,c mouth,c,c,c",C
+12067,pvd,2008,f,396,101,,46,62,"a mouth,c,a,c,a,a,a,a,a,a,a,a,c mouth",A,,,,,,,,,,,,,,,,,,,,,,,,
+12069,pvb,2008,f,375,92,bk,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12072,pwx,2008,m,435,126,,40,53,"a mouth,a,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2317,ylm,2004,m,403,115,,35,41,"a,a,a",A,,3295,wdy,2004,nosex,407,103,,50,54,"a,a,a,a",A
+12073,pwy,2008,f,410,109,sen,39,55,"c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+12074,pww,2008,f,426,127,bk,45,48,"c,c,c,c,c mouth",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+12075,pwv,2008,m,400,132,sen,38,53,"a mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2710,wvd,2004,m,415,128,bk,34,49,"c,c,c,c,c,c,c,c,c",C,,2423,beb,2004,f,423,104,,36,50,"c,c,c,c,c,c,c",C
+12077,pws,2008,m,412,132,bk,41,48,"c mouth,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+12079,pwo,2008,f,400,104,bk,46,55,"c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+12081,pwm,2008,f,435,125,bk,39,49,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2407,bdg,2004,f,441,120,bk,35,43,"c,c,c,c,c",C
+12082,pwl,2008,f,404,109,,44,54,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+12083,pwk,2008,f,411,107,bk,45,64,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+12084,pwj,2008,f,405,104,,46,51,"c mouth,c,c,c,c,c,c mouth",C,,2704,wtx,2004,m,470,135,bk,33,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,3166,ynp,2004,f,411,103,bk,44,61,"c,c,c",C
+12085,pwh,2008,f,371,105,,42,56,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2707,wva,2004,m,417,125,,34,41,"c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12086,pwe,2008,f,401,124,,45,53,"a mouth,a mouth,a,a,a mouth,a,c mouth",A,,,,,,,,,,,,,,3362,yvv,2004,f,400,103,bk,52,55,"a,a,a,a",A
+12088,pwc,2008,f,406,101,,39,39,"c mouth,c mouth,c,c mouth",C,,2714,wvk,2004,m,392,118,bk,33,40,"c,c,c,c,c,c",C,,2121,yem,2004,f,427,109,sen,33,48,"c,c,c,c,c,c,c mouth,c,c,c,c mouth",C
+12089,pwb,2008,m,404,125,,43,48,"c mouth,c mouth,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+12090,pwa,2008,f,404,115,bk,40,49,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2708,wvb,2004,m,423,130,bk,34,43,"c,c,c,c,c,c,c,c,c",C,,2705,wty,2004,f,410,104,bk,34,42,"c,c,c,c,c,c",C
+12092,pxz,2008,f,425,113,,45,54,"c,c,c mouth",C,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+12093,pxx,2008,f,416,110,sen,37,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2415,bds,2004,f,416,108,,33,45,"c,c,c,c,c,c,c,c,c",C
+12094,pxw,2008,f,410,107,,37,37,"c,c,c mouth",C,,,,,,,,,,,,,,,,,,,,,,,,
+12095,pxv,2008,m,395,122,bk,38,48,"c mouth,c,c,c,c,c,c,c,c,c,c mouth",C,,,,,,,,,,,,,,2210,bgt,2004,f,413,100,sen,37,49,"c,c,c,c,c,c,c,c,c",C
+12096,pxt,2008,f,387,99,,38,57,"c,c mouth,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+12097,pxs,2008,f,396,103,bk,41,62,"c,c,c,c,c,c,c,c,c,c,c,c,c mouth",C,,2673,wsh,2004,m,459,144,bk,33,41,"c,c,c,c,c,c,c,c,c",C,,2160,yjb,2004,f,436,110,bk,33,52,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+12098,pxp,2008,f,381,94,sen,37,51,"c,c,c,c,c,c,c,c,c,c,c mouth",C,,2130,yez,2004,m,430,114,bk,33,44,"c,c,c,c,c,c,c mouth",C,,2418,bdw,2004,f,417,104,bk,33,53,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12105,yls,2008,f,416,98,bk,43,50,"a mouth,a mouth,a mouth,a mouth,a,a,a,a,a,a",A,,2800,wwp,2004,m,419,127,,33,36,"a,a,a,a mouth",A,,2769,wzb,2004,f,431,116,bk,34,37,"a,a,a",A
+12106,ylo,2008,f,447,118,,40,46,"a mouth,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+12107,yln,2008,m,441,123,bk,45,48,"a mouth,a mouth,a mouth,a,a,a,a",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3124,bsm,2004,f,404,104,,44,51,"a,a,a,a",A
+12108,ylm,2008,m,422,121,bk,43,47,"a mouth,a mouth,a,a,a,a",A,,3261,wcj,2004,m,378,114,bk,47,48,"a,a",A,,3270,wcw,2004,f,407,91,bk,47,48,"a,a",A
+12109,yll,2008,m,404,113,,52,54,"a mouth,a mouth,a mouth,a mouth,a,a,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,,,,,,,,,,,
+12111,ylj,2008,m,430,129,bk,43,50,"a mouth,a mouth,a mouth,a,a,a,a,a",A,,3372,yth,2004,m,412,122,,52,54,"a,a,a",A,,3391,ywe,2004,f,395,100,bk,52,55,"a,a,a,a",A
+12115,ylc,2008,f,421,112,bk,42,49,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a",A,,2429,bej,2004,m,376,107,bk,36,38,"a,a",A,,2777,wzl,2004,f,422,99,bk,33,37,"a,a,a,a",A
+12117,yla,2008,f,487,129,,46,46,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+12119,yky,2008,f,416,103,bk,43,47,"a mouth,a mouth,a mouth,a,a,a,a,a",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+12125,ykp,2008,m,485,142,,41,43,"a mouth,a mouth,a,a,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+12126,yko,2008,f,400,103,bk,44,47,"a mouth,a mouth,a mouth,a mouth,a mouth,a,a,a,a",A,,3119,bsg,2004,m,391,120,bk,44,48,"a,a,c,a",A,,2902,bne,2004,f,405,112,bk,41,48,"a,a mouth,a,a,a",A
+12132,yke,2008,m,434,128,bk,40,50,"a mouth,a mouth,a,a,a,a,a,a,a,a",A,,2608,wmb,2004,m,432,125,sen,33,47,"c,c,c,c,c,c,c,c",C,,2769,wzb,2004,f,431,116,bk,34,37,"a,a,a",A
+12136,yka,2008,f,436,113,bk,43,47,"a mouth,a mouth,a mouth,a,a,a,a,a",A,,2709,wvc,2004,m,485,109,,34,47,"c,c,c,c,c,c,c,c,c",C,,2697,wtm,2004,f,420,105,bk,33,41,"c,c,c,c,c,c,c,c,c",C
+12139,ymx,2008,m,396,130,,40,41,"a mouth,a,a",A,,2735,wxk,2004,m,400,103,bk,34,42,"a,a,a,a",A,,2879,whe,2008,f,421,118,sen,,,"a beach,a beach",none
+12142,ymt,2008,f,413,105,bk,43,48,"a mouth,a,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+12145,ymo,2008,f,397,105,,41,41,"a mouth,a",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3124,bsm,2004,f,404,104,,44,51,"a,a,a,a",A
+12146,ymn,2008,f,410,109,flop,44,44,"a mouth,a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+12147,ymm,2008,f,416,103,bk,40,48,"a mouth,a mouth,a mouth,a,a,a,a mouth,a,a,a,a,a,a",A,,2800,wwp,2004,m,419,127,,33,36,"a,a,a,a mouth",A,,2795,wwk,2004,f,444,114,bk,33,43,"a,a,a,a,a",A
+12150,ymj,2008,m,398,120,,44,49,"a mouth,a mouth,a mouth,a,a,a,a,a,a",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3236,wbc,2004,f,379,94,,47,58,"a,a,a,a,a,a",A
+12151,ymh,2008,f,404,106,bk,40,47,"a mouth,a,a,a,a,a,a,a,a",A,,2429,bej,2004,m,376,107,bk,36,38,"a,a",A,,2777,wzl,2004,f,422,99,bk,33,37,"a,a,a,a",A
+12152,yme,2008,f,405,105,bk,50,55,"a mouth,c mouth,c mouth,c,c,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,2612,wmg,2004,f,399,99,bk,33,53,"c,c,c,c,c",C
+12153,ymd,2008,f,402,104,bk,42,47,"a mouth,a mouth,a mouth,a,a,a,a,a,a",A,,3133,bsz,2004,m,387,113,bk,44,48,"a,a,a,a",A,,3128,bst,2004,f,384,100,bk,44,48,"a,a,a",A
+12154,ymc,2008,f,419,107,bk,42,49,"a mouth,c mouth,c mouth,a,a,a,a,a,a,a,a",A,,3110,bpx,2004,m,346,114,sen,44,49,"a,a,a,a",A,,,,,,,,,,,,
+12156,pxn,2008,m,434,154,,46,46,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12158,pxl,2008,m,400,117,bk,38,48,"c mouth,c mouth,c,c mouth,c,c,c,c,c,c,c",C,,3154,yna,2004,m,408,120,bk,44,48,"c,c,c",C,,2293,bhm,2004,f,398,110,,38,47,"c,c mouth,c,c,c",C
+12160,pxj,2008,f,425,108,,52,52,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12161,pxh,2008,f,431,116,bk,37,48,"c mouth,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+12162,pxe,2008,f,404,112,bk,37,49,"c mouth,c,c mouth,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12164,pxc,2008,f,397,105,sen,37,43,"c mouth,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12165,pxb,2008,f,395,104,sen,42,57,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+12167,yma,2008,m,403,126,bk,43,49,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a",A,,2735,wxk,2004,m,400,103,bk,34,42,"a,a,a,a",A,,2879,whe,2008,f,421,118,sen,,,"a beach,a beach",none
+12168,ymb,2008,f,416,132,bk,40,47,"a mouth,a,a mouth,a,a",A,,3261,wcj,2004,m,378,114,bk,47,48,"a,a",A,,3270,wcw,2004,f,407,91,bk,47,48,"a,a",A
+12173,ynp,2008,f,446,141,bk,45,47,"a mouth,a mouth,a,a,a",A,,3119,bsg,2004,m,391,120,bk,44,48,"a,a,c,a",A,,3276,wdc,2004,f,393,97,bk,47,48,"a,a",A
+12174,yns,2008,m,418,108,sen,42,56,"a mouth,a mouth,a mouth,a,a,a,a,a,a,a,a,a,a,a,a,a,a",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+12176,ynm,2008,f,405,100,bk,47,48,"a mouth,a mouth,a mouth,a,a",A,,3351,yve,2004,nosex,369,100,bk,51,55,"a,a,a,a,a,a",A,,,,,,,,,,,,
+12178,ynk,2008,f,396,118,bk,43,50,"a mouth,a mouth,a,a,a,a,a,a,a,a",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+12184,ynb,2008,f,387,100,,43,43,"a mouth,a mouth,a,a mouth,a mouth,a mouth",A,,3256,wcc,2004,m,404,117,,47,47,a,A,,2902,bne,2004,f,405,112,bk,41,48,"a,a mouth,a,a,a",A
+12185,yna,2008,f,401,105,bk,43,47,"a mouth,a mouth,a mouth,a,a,a,a,a",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+12186,yoz,2008,f,414,108,flop,40,41,"a mouth,a mouth,a,a",A,,2781,wzs,2004,m,401,100,bk,35,37,"a,a,c,a",A,,2793,wwh,2004,f,438,104,bk,35,44,"a,a,a mouth,a,a",A
+12188,yox,2008,f,411,107,bk,44,55,"a mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+12192,yos,2008,f,406,105,bk,45,56,"a mouth,c,c,c,c,c,c,c,c,c,c,c",C,,3252,wby,2004,m,402,119,,47,54,"a,a,a,a,a",A,,3398,ywm,2004,f,386,111,bk,52,55,"a,a,a,a",A
+12194,yoo,2008,f,402,115,,42,42,"a mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12198,yol,2008,f,396,102,bk,45,50,"a mouth,a mouth,a,a,a,a,a,a",A,,2313,ylh,2004,m,454,139,bk,33,37,"a,a,a,a",A,,2312,ylg,2004,f,431,109,bk,35,37,"a,a,a,a",A
+12200,yoj,2008,m,395,119,flop,40,40,"a mouth,a,a mouth",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+12201,yoh,2008,f,400,107,bk,41,47,"a mouth,a,a,a,a,a,a,a",A,,2760,wyp,2004,m,420,121,bk,34,39,"a,a,a,a",A,,2306,wwz,2004,f,399,111,bk,33,37,"a,a,a,a",A
+12203,yod,2008,f,404,105,bk,43,47,"a mouth,a,a,a,a",A,,2735,wxk,2004,m,400,103,bk,34,42,"a,a,a,a",A,,2854,bkw,2004,f,387,111,bk,41,42,"a,a",A
+12208,ypw,2008,f,410,102,bk,40,50,"a mouth,a mouth,a,a mouth,a,a,a,a,a,a,a,a",A,,2784,wzw,2004,m,392,114,bk,35,37,"a,a,a",A,,2787,wzz,2004,f,439,112,bk,35,40,"a,a,a",A
+12210,ypt,2008,f,426,108,bk,41,47,"a mouth,a mouth,a,a,a,a,a,a,a",A,,2462,bgk,2004,m,405,113,bk,36,43,"a,a",A,,2901,bnd,2004,f,400,106,bk,41,43,"a,a",A
+12211,yps,2008,f,403,100,bk,41,47,"a mouth,a,a,a,a,a,a",A,,2314,ylj,2004,m,454,132,,33,35,"a,a",A,,2302,wwt,2004,f,439,111,bk,33,37,"a,a,a,a,a",A
+12212,ypo,2008,m,392,128,,49,54,"a mouth,a mouth,a mouth,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+12223,ypa,2008,f,396,110,,43,53,"a mouth,a mouth,a,a,a,a,a,a",A,,3174,ypa,2004,m,399,108,bk,45,48,"a,a,a",A,,3275,wdb,2004,f,393,101,bk,47,48,"a,a",A
+12225,yob,2008,m,394,112,sen,42,46,"a mouth,a,a,a,a,a,c beach",A,,3351,yve,2004,nosex,369,100,bk,51,55,"a,a,a,a,a,a",A,,3355,yvk,2004,f,398,106,,51,54,"a,a,a,a",A
+12226,ysz,2008,m,407,126,,43,44,"a mouth,a mouth,a,a",A,,2317,ylm,2004,m,403,115,,35,41,"a,a,a",A,,,,,,,,,,,,
+12227,ysy,2008,f,399,104,bk,43,50,"a mouth,a mouth,a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,2777,wzl,2004,f,422,99,bk,33,37,"a,a,a,a",A
+12228,ysx,2008,m,399,114,bk,41,48,"a mouth,a,a,a,a,a,a,a,a",A,,3133,bsz,2004,m,387,113,bk,44,48,"a,a,a,a",A,,3131,bsx,2004,f,402,94,bk,44,48,"a,a,a,a",A
+12229,ysw,2008,m,410,125,,41,41,"a mouth,a",A,,3252,wby,2004,m,402,119,,47,54,"a,a,a,a,a",A,,3398,ywm,2004,f,386,111,bk,52,55,"a,a,a,a",A
+12231,yst,2008,f,388,97,bk,45,50,"a mouth,a mouth,a mouth,a,a,a,a,a,a",A,,3252,wby,2004,m,402,119,,47,54,"a,a,a,a,a",A,,,,,,,,,,,,
+12232,yss,2008,f,395,105,sen,42,52,"a mouth,a mouth,a,a,a,a,a,a,a mouth,a,c beach",A,,,,,,,,,,,,,,,,,,,,,,,,
+12233,ysp,2008,f,393,102,sen,43,57,"a mouth,a mouth,a,a,a,a,a,a,a,a,a,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+12234,yso,2008,f,366,95,bk,43,58,"a mouth,c,a mouth,a,a,a,a,a",A,,3171,ynx,2004,m,400,116,,45,47,"a,a",A,,3173,ynz,2004,f,428,111,bk,45,48,"a,a,a",A
+12235,ysn,2008,f,402,103,bk,46,47,"a mouth,a mouth,a,a",A,,3372,yth,2004,m,412,122,,52,54,"a,a,a",A,,3206,ysp,2004,f,433,104,bk,47,55,"a,a,a,a,a",A
+12237,ysl,2008,f,427,115,bk,50,50,"a mouth,a mouth,a",A,,3249,wbv,2004,m,421,127,bk,47,48,"a,a",A,,,,,,,,,,,,
+12239,ysj,2008,f,413,103,sen,40,54,"a mouth,a,a,a,a mouth,a,a,a,a,a,a,a,a,a,a,a beach",A,,3231,wax,2004,m,345,105,sen,47,51,"a,a",A,,3355,yvk,2004,f,398,106,,51,54,"a,a,a,a",A
+12240,ysh,2008,f,396,97,,57,64,"a,a,a mouth,a,a,a,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,,,,,,,,,,,
+12243,ysc,2008,f,404,108,bk,43,47,"a mouth,a mouth,a mouth,a,a,a,a,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,3295,wdy,2004,nosex,407,103,,50,54,"a,a,a,a",A
+12244,ysb,2008,m,407,120,,43,46,"a mouth,c mouth,c mouth,a,a,a,a",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+12245,ysa,2008,f,434,119,bk,45,48,"a mouth,c,c,c,c,c",C,,3229,wav,2004,m,424,127,,47,47,a,A,,3226,wap,2004,f,405,99,bk,47,48,"a,a",A
+12246,ytz,2008,m,389,120,bk,43,50,"a mouth,a mouth,a,a,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+12249,ytw,2008,f,371,90,bk,43,48,"a mouth,a,a,a,a",A,,2798,wwm,2004,m,399,111,bk,35,48,"a,a mouth,a,a",A,,,,,,,,,,,,
+12250,ytv,2008,f,407,104,bk,40,50,"a mouth,a mouth,a,a,a,a,a,a,a,a,a,a,a",A,,2765,wyx,2004,m,424,137,bk,34,35,"a,a",A,,3128,bst,2004,f,384,100,bk,44,48,"a,a,a",A
+12251,ytt,2008,m,398,115,bk,42,50,"a mouth,c mouth,a,a mouth,a,a,a,a,a,a,a",A,,3249,wbv,2004,m,421,127,bk,47,48,"a,a",A,,3239,wbg,2004,f,406,99,bk,47,48,"a,a",A
+12253,ytp,2008,f,407,109,,43,46,"a mouth,a,a,a",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3179,ypg,2004,f,403,108,bk,45,48,"a,a,a",A
+12254,pyx,2008,f,420,110,bk,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12255,pyw,2008,f,402,99,,37,50,"c,c,c,c,c,c,c,c,c",C,,2673,wsh,2004,m,459,144,bk,33,41,"c,c,c,c,c,c,c,c,c",C,,2185,yjy,2004,f,421,112,,33,48,"c,c,c,c,c,c,c",C
+12256,pyv,2008,m,464,142,sen,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12257,pyz,2008,m,496,169,sen,37,48,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12258,pyt,2008,m,495,176,bk,37,57,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12259,pys,2008,f,418,113,bk,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2601,wlt,2004,m,419,116,bk,33,41,"c,c,c,c,c,c,c,c",C,,2703,wtw,2004,f,453,111,sen,33,42,"c,c,c,c,c,c,c,c,c,c,c,c",C
+12261,pyo,2008,m,492,149,bk,37,49,"c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12262,pyn,2008,f,367,98,bk,37,56,"c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+12263,pym,2008,f,405,95,bk,37,39,"c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12264,pyl,2008,f,401,103,sen,37,55,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2413,bdn,2004,f,420,111,bk,35,41,"c,c,c,c,c,c",C
+12265,pyk,2008,f,395,100,sen,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12266,pyj,2008,m,486,137,sen,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12267,pyh,2008,f,381,97,sen,37,59,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,2670,wsd,2004,f,428,118,bk,33,52,"c,c,c,c",C
+12268,pye,2008,m,494,156,,37,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12269,pyd,2008,m,432,137,sen,37,53,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12270,pyc,2008,m,456,152,sen,37,54,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2781,wzs,2004,m,401,100,bk,35,37,"a,a,c,a",A,,,,,,,,,,,,
+12271,pyb,2008,f,429,93,flop,37,41,"c,c,c,c,c",C,,,,,,,,,,,,,,2700,wts,2004,f,412,100,sen,33,41,"c,c,c,c,c,c,c,c,c,c",C
+12274,pya,2008,f,401,104,bk,41,49,"c mouth,c mouth,c,c mouth,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+12276,pzy,2008,f,399,101,sen,41,51,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2608,wmb,2004,m,432,125,sen,33,47,"c,c,c,c,c,c,c,c",C,,2643,wnw,2004,f,401,100,bk,33,40,"c,c,c,c",C
+12277,pzx,2008,m,450,168,bk,46,55,"c mouth,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12279,pzv,2008,f,384,98,,51,51,"c mouth,c",C,,2409,bdj,2004,m,366,106,,35,45,"c,c,c,c,c,c",C,,,,,,,,,,,,
+12280,pzt,2008,f,425,109,bk,44,55,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,3141,ymj,2004,f,386,107,bk,44,48,"c,c,c,c",C
+12281,pzs,2008,f,415,106,,50,52,"c mouth,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12285,pzn,2008,f,388,94,,42,56,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2625,wmy,2004,m,391,101,bk,33,48,"c,c mouth,c,c,c,c,c",C,,3147,yms,2004,f,397,107,bk,44,48,"c,c,c,c",C
+12287,pzk,2008,f,423,116,sen,46,63,"c,c mouth,c mouth,c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+12288,pzj,2008,f,415,104,,44,58,"c mouth,c mouth,c,c,c,c,c,c,c,c,c,c,c",C,,2601,wlt,2004,m,419,116,bk,33,41,"c,c,c,c,c,c,c,c",C,,,,,,,,,,,,
+12290,pze,2008,f,390,92,sen,41,57,"c mouth,c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+12291,pzd,2008,f,404,102,bk,39,55,"c mouth,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,,,,,,,,,,,,,2416,bdt,2004,f,383,107,sen,35,51,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C
+12292,pzc,2008,m,490,152,,40,40,"c mouth,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+12297,gax,2008,f,400,99,bk,48,49,"c mouth,c mouth,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,3152,ymy,2004,f,412,98,bk,44,49,"c,c",C
+13401,yzb,2008,f,392,94,bk,41,47,"a,a,a,a,a,a,a,a,a",A,,,,,,,,,,,,,,2719,wvp,2004,f,398,195,bk,34,52,"c,c,c,c,c",C
+13402,gny,2008,f,413,92,bk,41,49,"c,c,c,c,c,c,c,c,c",C,,2205,bgl,2004,m,437,119,,37,47,"c,c mouth,c,c,c",C,,2112,yea,2004,f,423,105,,35,45,"a,c mouth,c mouth,c,c mouth",tie
+13403,gnz,2008,f,402,95,bk,41,51,"c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+13405,waz,2008,f,378,88,sen,44,44,"a mouth,a,a mouth,c beach",A,,,,,,,,,,,,,,3355,yvk,2004,f,398,106,,51,54,"a,a,a,a",A
+13406,way,2008,m,387,112,,44,57,"a mouth,a mouth,a,a,a,c,c,c,c,c,c",C,,3263,wcl,2004,m,432,137,bk,47,48,"a,a",A,,3259,wcg,2004,f,409,99,bk,47,48,"a,a",A
+13407,wax,2008,f,408,103,,53,54,"a mouth,a mouth,a mouth,a,a",A,,3256,wcc,2004,m,404,117,,47,47,a,A,,3129,bsv,2004,f,397,96,bk,44,48,"a,a,a,a",A
+13408,wav,2008,f,389,99,bk,45,47,"a mouth,a mouth,a,a,a",A,,3467,yxk,2004,m,409,117,,56,56,a,A,,,,,,,,,,,,
+13410,wat,2008,f,398,98,bk,43,47,"a mouth,a,a,a,a",A,,3261,wcj,2004,m,378,114,bk,47,48,"a,a",A,,3270,wcw,2004,f,407,91,bk,47,48,"a,a",A
+13411,was,2008,f,389,124,bk,53,55,"a mouth,a mouth,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+13416,wal,2008,m,388,119,bk,42,47,"a mouth,a,a,a,a,a",A,,2852,bkt,2004,m,378,109,bk,41,48,"a,a,a,a,a",A,,3125,bsn,2004,f,406,112,bk,44,48,"a,a,a,a",A
+13417,wak,2008,f,418,101,bk,43,48,"a mouth,a,a,a,a,a",A,,3281,wdj,2004,m,408,120,bk,47,48,"a,a",A,,3282,wdk,2004,f,405,106,bk,47,48,"a,a",A
+13418,waj,2008,f,412,101,bk,43,48,"a mouth,a,a,a,a,a,a",A,,3112,bpy,2004,m,411,112,bk,44,48,"a,a,a,a",A,,3185,ypn,2004,f,405,102,bk,45,48,"a,a,a",A
+13419,wah,2008,f,418,106,bk,43,55,"a mouth,a,a mouth,a mouth,a,a,a,a",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3182,ypk,2004,f,432,103,bk,45,48,"a,a,a",A
+13422,wac,2008,f,394,102,,46,46,"a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+13424,waa,2008,f,376,98,,55,55,"a mouth,a mouth,a",A,,,,,,,,,,,,,,,,,,,,,,,,
+13425,wez,2008,f,382,91,,46,56,"a mouth,a,a mouth,a,a,a,a,a",A,,3294,wdx,2004,nosex,415,114,,50,54,"a,a,a,a",A,,,,,,,,,,,,
+13427,wex,2008,f,394,95,bk,43,47,"a mouth,a,a,a,a",A,,3263,wcl,2004,m,432,137,bk,47,48,"a,a",A,,3259,wcg,2004,f,409,99,bk,47,48,"a,a",A
+13431,wes,2008,f,407,105,,43,47,"a mouth,a,a,a,a,a",A,,3133,bsz,2004,m,387,113,bk,44,48,"a,a,a,a",A,,3131,bsx,2004,f,402,94,bk,44,48,"a,a,a,a",A
+13432,wep,2008,m,392,117,bk,43,48,"a mouth,a,a,a,a,a",A,,3119,bsg,2004,m,391,120,bk,44,48,"a,a,c,a",A,,3276,wdc,2004,f,393,97,bk,47,48,"a,a",A
+13435,wem,2008,f,405,99,,44,46,"a mouth,a mouth,a,a,a mouth,a,a mouth",A,,3256,wcc,2004,m,404,117,,47,47,a,A,,3129,bsv,2004,f,397,96,bk,44,48,"a,a,a,a",A
+13437,wek,2008,f,390,107,bk,45,47,"a mouth,a mouth,a,a,a",A,,3121,bsj,2004,m,406,109,bk,44,48,"a,a,a,a,a",A,,3130,bsw,2004,f,388,104,bk,44,48,"a,a,a,a",A
+13441,wed,2008,f,419,112,,45,47,"a mouth,a,a,a",A,,2760,wyp,2004,m,420,121,bk,34,39,"a,a,a,a",A,,2761,wys,2004,f,419,109,bk,34,36,"a,a,a",A
+13444,wea,2008,m,382,110,bk,46,47,"a mouth,a mouth,a,a",A,,3119,bsg,2004,m,391,120,bk,44,48,"a,a,c,a",A,,2902,bne,2004,f,405,112,bk,41,48,"a,a mouth,a,a,a",A
+13449,wdw,2008,f,426,93,bk,42,47,"a,a,a,a,a,a",A,,3261,wcj,2004,m,378,114,bk,47,48,"a,a",A,,3270,wcw,2004,f,407,91,bk,47,48,"a,a",A
+13450,wdt,2008,f,426,100,,43,47,"a,a,a,a,a",A,,3235,wbb,2004,m,384,124,,47,54,"a,a,a,a",A,,3237,wbd,2004,f,404,97,bk,47,48,"a,a",A
+13451,utf812a,2008,f,0,0,flop,43,43,a,A,,,,,,,,,,,,,,,,,,,,,,,,
+13453,goz,2008,f,425,95,sen,43,56,"c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2694,wtj,2004,m,435,124,sen,34,48,"c,c,c,c,c,c,c,c",C,,3162,ynk,2004,f,404,107,sen,44,49,"c,c,c,c,c",C
+13465,wdh,2008,f,420,102,bk,48,48,"a mouth,c mouth,c",C,,,,,,,,,,,,,,3259,wcg,2004,f,409,99,bk,47,48,"a,a",A
+13533,gba,2008,f,398,98,bk,42,48,"c,c,c,c,c,c,c",C,,2602,wlv,2004,m,431,123,bk,33,36,"c,a",tie,,3165,ynn,2004,f,391,110,,44,47,"c,c,c",C
+13534,gbb,2008,f,428,101,sen,42,55,"c,c,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+13535,gbc,2008,f,412,95,sen,42,57,"c,c,c,c,c,c,c,c,c,c,c,c,c,c,c",C,,2715,wvj,2004,m,417,126,bk,33,41,"c,c,c,c,c,c,c,c",C,,2702,wtv,2004,f,409,111,sen,33,47,"c,c,c,c,c,c,c,c,c,c",C
+13540,gbk,2008,m,473,181,sen,59,59,"c beach,c beach,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+13544,gbo,2008,m,513,208,,43,43,"c beach,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+13545,gbp,2008,m,473,185,,48,48,"c beach,c beach,c",C,,,,,,,,,,,,,,,,,,,,,,,,
+13551,gby,2008,f,510,137,sen,45,45,"c beach,c beach,c,c beach",C,,,,,,,,,,,,,,,,,,,,,,,,
+13553,goa,2008,f,489,124,,43,43,"c beach,c,c beach",C,,,,,,,,,,,,,,,,,,,,,,,,
+13575,gpc,2008,f,464,114,bk,44,49,"c,c mouth,c,c,c,c,c",C,,,,,,,,,,,,,,,,,,,,,,,,
