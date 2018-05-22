@@ -3,26 +3,62 @@ title: "Week_9"
 output: html_document
 ---
 
-```{r, include=FALSE}
-library(tidyverse)
+First let's load the libraries we'll need:
+
+```{r,message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+**Note:** to hide the output of these two commands, add "message=FALSE" to the curvy brackets with {r}. Press the "run current chunk" button, *not* Ctrl-Enter.
+
+
+
+Loading the data frame:
+```{r}
+parentage_data <- read.csv("../data_8/parentage_with_phenotypes_CSV.csv")
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Next, we'll manipulate the data:
+```{r}
+#Filtering out NAs and blanks by selecting sex columns only with m or f
+filtered_parentage_data <- parentage_data %>%
+  select(sex, length, depth, sex.1, length.1, depth.1, sex.2, length.2, depth.2) %>%
+  filter(sex == "m" | sex== "f") %>%     
+  filter(sex.1 == "m" | sex.1 =="f") %>% 
+  filter(sex.2 =="m" | sex.2 == "f") %>% 
+  
+#Creating length:depth ratio columns for offspring and each parent  
+  mutate(LD_ratio = length/depth) %>%     
+  mutate(LD.1_ratio = length.1/depth.1) %>% 
+  mutate(LD.2_ratio = length.2/depth.2) %>% 
+  na.omit() #ensuring all NAs are removed
+```
+Notice a pipe was used for this entire chunk
 
-```{r cars}
-summary(cars)
+
+
+
+Let's see what we've done so far:
+```{r}
+head(filtered_parentage_data)
+View(filtered_parentage_data)
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Next we'll be calculating the **z-scores** of the parents and offspring. A z-score is the distance of a value from the mean in terms of standard deviations. Statistically, values with z-scores greater than 2 (more than 2 standard deviations from the mean) are considered unusual. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Before we can calculate z-scores, though, we need the mean and standard deviation of the length:depth columns.
+```{r}
+#standard deviations
+sd_dad <- sd(filtered_parentage_data$LD.1_ratio)
+sd_mom <- sd(filtered_parentage_data$LD.2_ratio)
+sd_offspring <- sd(filtered_parentage_data$LD_ratio)  
+
+  #means
+mean_dad <- mean(filtered_parentage_data$LD.1_ratio)
+mean_mom <- mean(filtered_parentage_data$LD.2_ratio)
+mean_offspring <- mean(filtered_parentage_data$LD_ratio)
+
