@@ -34,6 +34,11 @@ mean_dad <- as.numeric(mean(filtered_parentage_data$LD.1_ratio))
 mean_mom <- as.numeric(mean(filtered_parentage_data$LD.2_ratio))
 mean_offspring <- as.numeric(mean(filtered_parentage_data$LD_ratio))
 
+#hmmmm
+filtered_list <- array(data = filtered_parentage_data, dim = length(filtered_parentage_data))
+
+head(filtered_list[, 13])
+
   #z-scores
     #dad
 for (i in seq(1, length(filtered_parentage_data$LD.1_ratio))) {
@@ -41,6 +46,7 @@ for (i in seq(1, length(filtered_parentage_data$LD.1_ratio))) {
   filtered_parentage_data$z_score_dad[i] <- as.numeric(z_score_dad)
   
 }
+
     #double check that it worked properly:
 head(filtered_parentage_data$z_score_dad)
 (filtered_parentage_data$LD.1_ratio[1] - mean_dad)/sd_dad 
@@ -66,8 +72,25 @@ head(filtered_parentage_data$z_score_offspring)
 ##graphing z-scores to compare between offspring and each parent
     #mom and offspring
 ggplot(data = filtered_parentage_data) +
-  geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex))
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+  labs(x = "mom z-score", y = "offspring z-score")
 
   #dad and offspring
 ggplot(data = filtered_parentage_data) +
-  geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex))
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sexalpha = 0.5))+
+  labs(x = "dad z-score", y = "offspring z-score")
+  
+#We can see that there's one obvious outlier in both plots throwing off the scale and obscuring any trends that may be there. Let's fix that:
+  
+  #mom and offspring - outlier removed
+  ggplot(data = filtered_parentage_data) +
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+  labs(x = "mom z-score", y = "offspring z-score") +
+  ylim(-1, 2)
+
+  #dad and offspring
+  ggplot(data = filtered_parentage_data) +
+    geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+    labs(x = "dad z-score", y = "offspring z-score")+
+    ylim(-1,2)
+  
