@@ -70,12 +70,12 @@ head(filtered_parentage_data$z_score_offspring)
     #mom and offspring
 ggplot(data = filtered_parentage_data) +
   geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
-  labs(x = "mom z-score", y = "offspring z-score") +
+  labs(x = "mom z-score", y = "offspring z-score") 
 
   #dad and offspring
 ggplot(data = filtered_parentage_data) +
   geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
-  labs(x = "dad z-score", y = "offspring z-score")+
+  labs(x = "dad z-score", y = "offspring z-score")
   
 #We can see that there's one obvious outlier in both plots throwing off the scale and obscuring any trends that may be there. Let's fix that:
   
@@ -92,4 +92,5 @@ ggplot(data = filtered_parentage_data) +
     labs(x = "dad z-score", y = "offspring z-score")+
     ylim(-1, 2) +
     guides(alpha = FALSE)
+  
   
