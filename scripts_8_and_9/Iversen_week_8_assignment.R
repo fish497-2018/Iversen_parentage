@@ -93,4 +93,5 @@ ggplot(data = filtered_parentage_data) +
     ylim(-1, 2) +
     guides(alpha = FALSE)
   
+  install.packages("tinytex")
   
