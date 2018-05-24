@@ -1,7 +1,7 @@
 ---
 title: "Week_9"
 output: html_document
-[^1]: And here is a footnote.
+
 ---
 ## *Or, technically week 8, part II*
 
@@ -154,9 +154,9 @@ ggplot(data = filtered_parentage_data) +
 
 
 ####That's better! From these graphs we can see:
-#####* There appears to be no correlation between parent z-score (either mom or dad) and offspring z-score
+##### * There appears to be no correlation between parent z-score (either mom or dad) and offspring z-score
 ##### * Most offspring z-scores are between -0.5 and 0.5
 ##### * Mst mom z-scores range from -2 to 2, and most dad z-scores range from -2.5 to 2.5
 ##### * Female offspring tend to have more positive z-score values, and male offspring tend to have more negative z-score values
 
-[^1]: And here is a footnote.
+^[This is a footnote] This will correspond to a footnote 
