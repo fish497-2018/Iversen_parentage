@@ -6,17 +6,18 @@ library(dplyr)
 parentage_data <- read.csv("data_8/parentage_with_phenotypes_CSV.csv")
 
 
-##Filtering the data
+#Filtering out NAs and blanks by selecting sex columns only with m or f
 filtered_parentage_data <- parentage_data %>%
   select(sex, length, depth, sex.1, length.1, depth.1, sex.2, length.2, depth.2) %>%
-  filter(sex == "m" | sex== "f") %>%    #Filtering out NAs and blanks by selecting sex columns only with m or f 
+  filter(sex == "m" | sex== "f") %>%     
   filter(sex.1 == "m" | sex.1 =="f") %>% 
   filter(sex.2 =="m" | sex.2 == "f") %>% 
-  mutate(LD_ratio = length/depth) %>%      #creating length:depth ratio columns for offspring and parents
+  
+#Creating length:depth ratio columns for offspring and each parent  
+  mutate(LD_ratio = length/depth) %>%     
   mutate(LD.1_ratio = length.1/depth.1) %>% 
   mutate(LD.2_ratio = length.2/depth.2) %>% 
-  na.omit()
-na.fail(filtered_parentage_data)
+  na.omit() #ensuring all NAs are removed
 
 
 head(filtered_parentage_data)
@@ -30,14 +31,10 @@ sd_mom <- sd(filtered_parentage_data$LD.2_ratio)
 sd_offspring <- sd(filtered_parentage_data$LD_ratio)  
 
   #means
-mean_dad <- as.numeric(mean(filtered_parentage_data$LD.1_ratio))
-mean_mom <- as.numeric(mean(filtered_parentage_data$LD.2_ratio))
-mean_offspring <- as.numeric(mean(filtered_parentage_data$LD_ratio))
+mean_dad <- mean(filtered_parentage_data$LD.1_ratio)
+mean_mom <- mean(filtered_parentage_data$LD.2_ratio)
+mean_offspring <- mean(filtered_parentage_data$LD_ratio)
 
-#hmmmm
-filtered_list <- array(data = filtered_parentage_data, dim = length(filtered_parentage_data))
-
-head(filtered_list[, 13])
 
   #z-scores
     #dad
@@ -73,24 +70,26 @@ head(filtered_parentage_data$z_score_offspring)
     #mom and offspring
 ggplot(data = filtered_parentage_data) +
   geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
-  labs(x = "mom z-score", y = "offspring z-score")
+  labs(x = "mom z-score", y = "offspring z-score") +
 
   #dad and offspring
 ggplot(data = filtered_parentage_data) +
-  geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sexalpha = 0.5))+
-  labs(x = "dad z-score", y = "offspring z-score")
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+  labs(x = "dad z-score", y = "offspring z-score")+
   
 #We can see that there's one obvious outlier in both plots throwing off the scale and obscuring any trends that may be there. Let's fix that:
   
-  #mom and offspring - outlier removed
+  #mom and offspring - outlier and legend removed
   ggplot(data = filtered_parentage_data) +
-  geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
-  labs(x = "mom z-score", y = "offspring z-score") +
-  ylim(-1, 2)
+    geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+    labs(x = "mom z-score", y = "offspring z-score") +
+    ylim(-1, 2) +
+    guides(alpha = FALSE)
 
-  #dad and offspring
+  #dad and offspring - outler and legend removed
   ggplot(data = filtered_parentage_data) +
     geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
     labs(x = "dad z-score", y = "offspring z-score")+
-    ylim(-1,2)
+    ylim(-1, 2) +
+    guides(alpha = FALSE)
   

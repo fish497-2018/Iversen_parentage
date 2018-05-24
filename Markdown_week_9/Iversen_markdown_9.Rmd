@@ -1,26 +1,28 @@
 ---
 title: "Week_9"
 output: html_document
+[^1]: And here is a footnote.
 ---
+## *Or, technically week 8, part II*
 
-First let's load the libraries we'll need:
+###First let's load the libraries we'll need:
 
 ```{r,message=FALSE}
 library(dplyr)
 library(ggplot2)
 ```
-**Note:** to hide the output of these two commands, add "message=FALSE" to the curvy brackets with {r}. Press the "run current chunk" button, *not* Ctrl-Enter.
+**Note:** to hide the output of these two commands, add `message=FALSE` to the curvy brackets with `{r}`. Press the "run current chunk" button, *not* Ctrl-Enter.
 
 
 
-Loading the data frame:
+####Loading the data frame:
 ```{r}
 parentage_data <- read.csv("../data_8/parentage_with_phenotypes_CSV.csv")
 ```
 
 
 
-Next, we'll manipulate the data:
+###Next, we'll manipulate the data:
 ```{r}
 #Filtering out NAs and blanks by selecting sex columns only with m or f
 filtered_parentage_data <- parentage_data %>%
@@ -35,12 +37,12 @@ filtered_parentage_data <- parentage_data %>%
   mutate(LD.2_ratio = length.2/depth.2) %>% 
   na.omit() #ensuring all NAs are removed
 ```
-Notice a pipe was used for this entire chunk
+#####*Notice a pipe was used for this entire chunk*
 
 
 
 
-Let's see what we've done so far:
+####Let's see what we've done so far:
 ```{r}
 head(filtered_parentage_data)
 View(filtered_parentage_data)
@@ -48,9 +50,12 @@ View(filtered_parentage_data)
 
 
 
-Next we'll be calculating the **z-scores** of the parents and offspring. A z-score is the distance of a value from the mean in terms of standard deviations. Statistically, values with z-scores greater than 2 (more than 2 standard deviations from the mean) are considered unusual. 
+###Next we'll be calculating the **z-scores** of the parents and offspring. 
 
-Before we can calculate z-scores, though, we need the mean and standard deviation of the length:depth columns.
+
+####A z-score is the distance of a value from the mean in terms of standard deviations. Statistically, values with z-scores greater than 2 (more than 2 standard deviations from the mean) are considered unusual. 
+
+####Before we can calculate z-scores, though, we need the mean and standard deviation of the length:depth columns.
 ```{r}
 #standard deviations
 sd_dad <- sd(filtered_parentage_data$LD.1_ratio)
@@ -62,3 +67,96 @@ mean_dad <- mean(filtered_parentage_data$LD.1_ratio)
 mean_mom <- mean(filtered_parentage_data$LD.2_ratio)
 mean_offspring <- mean(filtered_parentage_data$LD_ratio)
 
+```
+
+
+
+
+####Now for the z-scores, featuring a fancy for loop
+```{r}
+#z-scores
+    #dad
+for (i in seq(1, length(filtered_parentage_data$LD.1_ratio))) {   #establishing the data to which the loop will apply (the dad length:depth (LD.1) ratio column)
+  z_score_dad <- (filtered_parentage_data$LD.1_ratio[i] - mean_dad)/ sd_dad   #i is used as a generic variable. We're subtracting each entry in LD.1_ratio from the mean and dividing that difference by the standard deviation
+  filtered_parentage_data$z_score_dad[i] <- as.numeric(z_score_dad)  #assigning the results of the above line to the column "z_score_dad"
+    
+}
+
+    #double check that it worked properly...
+head(filtered_parentage_data$z_score_dad)
+(filtered_parentage_data$LD.1_ratio[1] - mean_dad)/sd_dad # If the loop worked correctly, this should yield the same value as the first output value from the loop
+
+
+    #mom
+for (i in seq(1, length(filtered_parentage_data$LD.2_ratio))) {
+  z_score_mom <- (filtered_parentage_data$LD.2_ratio[i] - mean_mom)/ sd_mom 
+  filtered_parentage_data$z_score_mom[i] <- as.numeric(z_score_mom)
+  
+}
+head(filtered_parentage_data$z_score_mom)
+
+
+    #offspring
+for (i in seq(1, length(filtered_parentage_data$LD_ratio))) {
+  z_score_offspring <- (filtered_parentage_data$LD_ratio[i] - mean_offspring)/ sd_offspring
+  filtered_parentage_data$z_score_offspring[i] <- as.numeric(z_score_offspring)
+  
+}
+head(filtered_parentage_data$z_score_offspring)
+```
+#####*These all look like reasonable z-scores!*
+
+
+
+
+###Now that we have the z-scores filled out, let's graph them to see if there are any correlations. 
+
+
+####More specifically, We'll make scatter plots for mom z-score vs. ofspring z-score and dad z-score vs. offspring z-score.
+
+```{r}
+##graphing z-scores to compare between offspring and each parent
+    #mom and offspring
+ggplot(data = filtered_parentage_data) +
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+  labs(x = "mom z-score", y = "offspring z-score")
+
+  #dad and offspring
+ggplot(data = filtered_parentage_data) +
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+  labs(x = "dad z-score", y = "offspring z-score")
+```
+
+
+
+
+
+####We can see that there's one obvious outlier in both plots throwing off the scale and obscuring any trends that may be there. Let's fix that (and also take out that "0.5" legend that makes no sense):
+
+
+```{r, warning= FALSE}
+#mom and offspring - outlier removed
+  ggplot(data = filtered_parentage_data) +
+  geom_point(mapping = aes(x = filtered_parentage_data$z_score_mom, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+  labs(x = "mom z-score", y = "offspring z-score") +
+  ylim(-1, 2)+
+  guides(alpha = FALSE)
+
+  #dad and offspring - outler removed
+  ggplot(data = filtered_parentage_data) +
+    geom_point(mapping = aes(x = filtered_parentage_data$z_score_dad, y = filtered_parentage_data$z_score_offspring, color = sex, alpha = 0.5))+
+    labs(x = "dad z-score", y = "offspring z-score")+
+    ylim(-1,2)+
+    guides(alpha = FALSE)
+  
+```
+
+
+
+####That's better! From these graphs we can see:
+#####* There appears to be no correlation between parent z-score (either mom or dad) and offspring z-score
+##### * Most offspring z-scores are between -0.5 and 0.5
+##### * Mst mom z-scores range from -2 to 2, and most dad z-scores range from -2.5 to 2.5
+##### * Female offspring tend to have more positive z-score values, and male offspring tend to have more negative z-score values
+
+[^1]: And here is a footnote.
