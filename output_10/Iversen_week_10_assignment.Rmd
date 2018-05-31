@@ -1,7 +1,13 @@
 ---
 title: "Parentage and Phenotype Analysis"
 output: ioslides_presentation
+
 ---
+```{r setup, echo=FALSE}
+library(knitr)
+options(width=80)
+#opts_chunk$set(tidy = TRUE, size="small")
+``` 
 
 ##Phenotype analysis: how heritable is body size?
 
@@ -41,8 +47,16 @@ knitr::kable(as.data.frame(parentage_data$locations[1:4]))
 
 ``` 
 
-
 There are multiple data in single cells. 
+
+#How the heck do we tidy this data?!
+
+##filter the data frame
+```{r}
+tidy_data <- parentage_data %>% 
+select(OFFSPRING_ID, locations)
+
+```
 
 ##Now to filter the data for our use today
 
@@ -66,8 +80,8 @@ filtered_parentage_data <- parentage_data %>%
 
 
 ##Let's see what we've done so far:
-```{r}
-head(filtered_parentage_data)
+```{r, echo=FALSE}
+knitr::kable(filtered_parentage_data[1:5,])
 
 ```
 
@@ -163,7 +177,7 @@ ggplot(data = filtered_parentage_data) +
   labs(x = "dad z-score", y = "offspring z-score")
 ```
 
-#How do they look?
+##How do they look?
 We can see that there's one obvious outlier in both plots throwing off the scale and obscuring any trends that may be there. Let's fix that (and also take out that "0.5" legend that makes no sense)...
 
 
