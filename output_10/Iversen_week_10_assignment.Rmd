@@ -33,6 +33,19 @@ This is a data frame of various data on a sockeye salmon population (parentage, 
 
 ##Next, we'll manipulate the data.
 
+ * we can use `library(tidyr)` to organize messy columns in the data frame.
+ * For example, look at the `locations` column in `parentage_data`:
+```{r, echo=FALSE}
+knitr::kable(as.data.frame(parentage_data$locations[1:4]))
+#use knitr::kable to create a table
+
+``` 
+
+
+There are multiple data in single cells. 
+
+##Now to filter the data for our use today
+
 ```{r}
 #Filtering out NAs and blanks by selecting sex columns only with m or f
 filtered_parentage_data <- parentage_data %>%
