@@ -47,16 +47,29 @@ knitr::kable(as.data.frame(parentage_data$locations[1:4]))
 
 ``` 
 
-There are multiple data in single cells. 
+##What are we looking at?
+These are locations within two creeks (A creek and C creek) at which different fish (represented in each row) were seen. Obviously, there are multiple data in single cells. 
+```{r, echo=FALSE}
+knitr::kable(as.data.frame(parentage_data$locations[1:4]))
+#use knitr::kable to create a table
+
+``` 
 
 #How the heck do we tidy this data?!
 
 ##filter the data frame
 ```{r}
 tidy_data <- parentage_data %>% 
-select(OFFSPRING_ID, locations)
+  select(OFFSPRING_ID, locations)
+separate_rows(tidy_data, locations, sep = ",") %>% 
+  group_by(OFFSPRING_ID, locations) %>%
+  mutate(count = n()) %>%
+  distinct() %>%
+  spread(locations, count)
 
 ```
+## Hooray! 
+Now each variable has its own column, and observations are reported as the number of times a fish was seen at each location.
 
 ##Now to filter the data for our use today
 
@@ -111,7 +124,7 @@ mean_offspring <- mean(filtered_parentage_data$LD_ratio)
 
 
 
-##Now for the z-scores, featuring a fancy for loop
+#Now for the z-scores, featuring a fancy for loop
 
 ##Dad z-scores
 ```{r}
